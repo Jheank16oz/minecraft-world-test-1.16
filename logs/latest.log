@@ -1,0 +1,102 @@
+[07:43:52] [main/INFO]: Loading tweak class name org.tlauncher.tweaker.Tweaker
+[07:43:52] [main/INFO]: Using primary tweak class name org.tlauncher.tweaker.Tweaker
+[07:43:52] [main/WARN]: Tweak class name org.tlauncher.tweaker.Tweaker has already been visited -- skipping
+[07:43:52] [main/INFO]: Calling tweak class org.tlauncher.tweaker.Tweaker
+[07:43:52] [main/INFO]: Launching wrapped minecraft {org.tlauncher.MainNew}
+[07:43:53] [main/INFO]: Setting user: jpineros
+[07:43:56] [main/INFO]: Backend library: LWJGL version 3.2.1 build 12
+[07:43:58] [main/INFO]: Reloading ResourceManager: Programmer Art, Default
+[07:43:58] [main/INFO]: [STDOUT]: [Connector] trying to start...
+[07:43:58] [main/INFO]: [STDOUT]: [Connector] no server info
+[07:43:58] [main/INFO]: [STDOUT]: [Connector] end
+[07:43:59] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[07:44:05] [main/INFO]: OpenAL initialized.
+[07:44:05] [main/INFO]: Sound engine started
+[07:44:05] [main/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/blocks.png-atlas
+[07:44:05] [main/INFO]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
+[07:44:05] [main/INFO]: Created: 1024x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[07:44:05] [main/INFO]: Created: 1024x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[07:44:05] [main/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[07:44:05] [main/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[07:44:05] [main/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[07:44:06] [main/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[07:44:06] [main/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[07:44:06] [main/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[07:44:58] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[07:44:58] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[07:44:58] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[07:44:58] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[07:44:58] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[07:44:58] [Server thread/INFO]: Starting integrated minecraft server version 1.15.2
+[07:44:58] [Server thread/INFO]: Generating keypair
+[07:44:58] [Server thread/INFO]: Reloading ResourceManager: Default
+[07:44:59] [Server thread/INFO]: Loaded 6 recipes
+[07:44:59] [Server thread/INFO]: Loaded 825 advancements
+[07:44:59] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[07:45:00] [main/INFO]: Preparing spawn area: 0%
+[07:45:00] [main/INFO]: Preparing spawn area: 0%
+[07:45:00] [main/INFO]: Time elapsed: 1122 ms
+[07:45:01] [Server thread/INFO]: Changing view distance to 11, from 10
+[07:45:02] [Server thread/INFO]: jpineros[local:E:ea875d7b] logged in with entity id 211 at (6.892623086976055, 64.0, 62.95819502338486)
+[07:45:02] [Server thread/INFO]: jpineros joined the game
+[07:45:02] [Server thread/INFO]: Saving and pausing game...
+[07:45:02] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise attempt 2'/minecraft:overworld
+[07:45:03] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise attempt 2'/minecraft:the_end
+[07:45:03] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise attempt 2'/minecraft:the_nether
+[07:45:03] [main/INFO]: Loaded 334 advancements
+[07:45:11] [Server thread/INFO]: Saving and pausing game...
+[07:45:11] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise attempt 2'/minecraft:overworld
+[07:45:11] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise attempt 2'/minecraft:the_end
+[07:45:11] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise attempt 2'/minecraft:the_nether
+[07:45:16] [main/INFO]: Using default channel type
+[07:45:16] [main/INFO]: Started serving on 53478
+[07:45:16] [main/INFO]: [CHAT] Local game hosted on port 53478
+[07:46:10] [main/INFO]: [CHAT] Gamerule keepInventory is currently set to: false
+[07:46:39] [Server thread/INFO]: [jpineros: Gamerule keepInventory is now set to: true]
+[07:46:39] [main/INFO]: [CHAT] Gamerule keepInventory is now set to: true
+[07:47:05] [main/INFO]: textures 'jpineros' was added, skin: false,cape: false, max waiting: 1 ,during : 122655 
+[07:50:46] [Server thread/INFO]: jpineros has made the advancement [Ice Bucket Challenge]
+[07:50:46] [main/INFO]: [CHAT] jpineros has made the advancement [Ice Bucket Challenge]
+[07:50:46] [main/INFO]: Loaded 335 advancements
+[07:52:23] [main/INFO]: [CHAT] Respawn point set
+[08:02:35] [main/WARN]: Something's taking too long! 'root.updateDisplay' took aprox 118.138538 ms
+[08:02:35] [main/WARN]: Something's taking too long! 'root' took aprox 121.376564 ms
+[08:02:37] [main/INFO]: [CHAT] Saved screenshot as 2020-05-06_08.02.35.png
+[08:02:44] [main/INFO]: [CHAT] Respawn point set
+[08:05:40] [main/INFO]: Loaded 341 advancements
+[08:11:05] [main/WARN]: Something's taking too long! 'root.updateDisplay' took aprox 126.941516 ms
+[08:11:05] [main/WARN]: Something's taking too long! 'root' took aprox 127.413178 ms
+[08:11:05] [main/WARN]: Something's taking too long! 'root.updateDisplay' took aprox 122.644254 ms
+[08:11:05] [main/WARN]: Something's taking too long! 'root' took aprox 122.914909 ms
+[08:16:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3225ms or 64 ticks behind
+[08:16:09] [main/INFO]: Loaded 341 advancements
+[08:16:12] [main/INFO]: [CHAT] Respawn point set
+[08:16:28] [main/INFO]: Loaded 341 advancements
+[08:19:23] [main/INFO]: Loaded 342 advancements
+[08:23:51] [Server thread/INFO]: jpineros has made the advancement [Eye Spy]
+[08:23:51] [main/INFO]: [CHAT] jpineros has made the advancement [Eye Spy]
+[08:23:51] [main/INFO]: Loaded 342 advancements
+[08:24:51] [main/INFO]: Loaded 342 advancements
+[08:26:22] [main/INFO]: [CHAT] Respawn point set
+[08:29:13] [main/INFO]: [CHAT] Respawn point set
+[08:35:27] [main/INFO]: Loaded 342 advancements
+[08:37:15] [main/WARN]: Received passengers for unknown entity
+[08:39:46] [main/INFO]: [CHAT] Respawn point set
+[08:50:26] [main/INFO]: [CHAT] Respawn point set
+[08:54:49] [main/WARN]: Received passengers for unknown entity
+[08:59:37] [Server thread/INFO]: jpineros lost connection: Disconnected
+[08:59:37] [Server thread/INFO]: jpineros left the game
+[08:59:37] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[08:59:37] [Server thread/INFO]: Stopping server
+[08:59:37] [Server thread/INFO]: Saving players
+[08:59:37] [Server thread/INFO]: Saving worlds
+[08:59:37] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise attempt 2'/minecraft:overworld
+[08:59:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (Jhean Paradise attempt 2): All chunks are saved
+[08:59:38] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise attempt 2'/minecraft:the_end
+[08:59:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08:59:38] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise attempt 2'/minecraft:the_nether
+[08:59:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08:59:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (Jhean Paradise attempt 2): All chunks are saved
+[08:59:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08:59:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08:59:44] [main/INFO]: Stopping!

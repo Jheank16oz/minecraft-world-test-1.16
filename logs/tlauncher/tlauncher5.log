@@ -1,0 +1,851 @@
+2020-04-30 09:25:10,012 main [Loading] INITIALIZING
+Starting TLauncher 2.69 RELEASE
+For more information, visit https://tlauncher.org/
+Startup time: Apr 30, 2020 9:25:07 AM
+---
+run double running protectin
+[Loading] LOADING_CONFIGURATION
+Loading configuration from file: /Users/jpineros/Library/Application Support/tlauncher/tlauncher-2.0.properties
+[Configuration] Constant values: {}
+Machine info: -------------------------------------------------------
+Mac OS X 10.15.4, Java 1.8.0_231, jvm bit x64, 16384 MB RAM
+java path=/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin/java
+Intel UHD Graphics 630
+-------------------------------------------------------
+Selected locale: en_US
+[Loading] LOADING_CONSOLE
+
+
+2020-04-30 09:25:10,013 main [Downloader2] Loaded configuration: good
+2020-04-30 09:25:10,151 ExtendedThread#4 [Updater] Requesting an update...
+2020-04-30 09:25:10,154 ExtendedThread#4 [Updater] Requesting from: http://repo.tlauncher.org/update/lch/update_2.0.json
+2020-04-30 09:25:10,155 ExtendedThread#4 [Updater] Making request: http://repo.tlauncher.org/update/lch/update_2.0.json?version=2.69&client=1989ed1d-7f80-4273-b5a5-0b1ae81b1ee6
+2020-04-30 09:25:10,269 main [Browser] Loading resources...
+2020-04-30 09:25:10,408 main [Browser] Loading background...
+2020-04-30 09:25:10,447 main [Browser] Cleaning up after loading:
+2020-04-30 09:25:10,447 main Starting garbage collector: 86 / 198 MB
+2020-04-30 09:25:10,513 main Garbage collector completed: 17 / 229 MB
+2020-04-30 09:25:10,516 main [Loading] LOADING_MANAGERS
+2020-04-30 09:25:10,525 main [LocalVersionList] Base directory: /Users/jpineros/Library/Application Support/minecraft
+2020-04-30 09:25:10,542 main [ProfileManager] Refreshing profiles from: /Users/jpineros/Library/Application Support/minecraft/TlauncherProfiles.json
+2020-04-30 09:25:10,559 main [AdvertisingStatusObserver]  started to get ad information
+2020-04-30 09:25:10,560 ExtendedThread#6 [GsonUtil]  request to http://repo.tlauncher.org/update/downloads/libraries/org/tlauncher/authlib/libraries-1.6.json
+2020-04-30 09:25:10,560 main [AdvertisingStatusObserver]  finished to get add information
+2020-04-30 09:25:10,570 main [Loading] LOADING_WINDOW
+2020-04-30 09:25:10,808 ExtendedThread#4 [Updater] Request time: 654 ms
+2020-04-30 09:25:10,808 ExtendedThread#4 [Updater] Successfully requested from: http://repo.tlauncher.org/update/lch/update_2.0.json
+2020-04-30 09:25:10,923 JavaFX Application Thread [JFXStartPageLoader]  start load page: http://page.tlauncher.org/update/downloads/configs/client/eng.html
+2020-04-30 09:25:10,932 JavaFX Application Thread [Browser] Running in JavaFX Thread
+2020-04-30 09:25:10,933 JavaFX Application Thread [Browser] Preparing JavaFX...
+2020-04-30 09:25:11,045 JavaFX Application Thread [Browser] Initializing...
+2020-04-30 09:25:11,090 ExtendedThread#7 [REPO][SERVER_LIST_REPO] Success: Reached the repo in 519 ms.
+2020-04-30 09:25:11,186 main [Loading] PREPARING_MAINPANE
+2020-04-30 09:25:11,360 main [Downloader2] Loaded configuration: good
+2020-04-30 09:25:12,044 JavaFX Application Thread [JFXStartPageLoader]  succeeded load page: http://page.tlauncher.org/update/downloads/configs/client/eng.html during 1
+2020-04-30 09:25:12,044 JavaFX Application Thread [Browser@809913021] Loaded successfully: "http://page.tlauncher.org/update/downloads/configs/client/eng.html"
+2020-04-30 09:25:12,126 JavaFX Application Thread [Browser] add listens into server_choose
+2020-04-30 09:25:12,126 JavaFX Application Thread [Browser] finished listens into server_choose
+2020-04-30 09:25:12,338 main [Loading] POSTINIT_GUI
+2020-04-30 09:25:12,338 main [Frame] Packing main frame...
+2020-04-30 09:25:12,439 main [Frame] Resizing main pane...
+2020-04-30 09:25:12,440 main Updater is already closed. Showing up...
+2020-04-30 09:25:12,440 main Visibility set.
+2020-04-30 09:25:12,445 main [Loading] REFRESHING_INFO
+2020-04-30 09:25:12,446 ExtendedThread#4 [VersionManager] Refreshing versions remotely...
+2020-04-30 09:25:12,446 ExtendedThread#6 [REPO][EXTRA_VERSION_REPO] Attempt #1; timeout: 45000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new3/
+2020-04-30 09:25:12,448 main Started! (2969 ms.)
+2020-04-30 09:25:12,449 main [Loading] SUCCESS
+2020-04-30 09:25:12,467 main [TLauncher] show tlauncher!!!
+2020-04-30 09:25:12,467 main [Double running] clear time label
+2020-04-30 09:25:12,495 AsyncObject#13 [REPO][OFFICIAL_VERSION_REPO] Attempt #1; timeout: 45000 ms; url: https://launchermeta.mojang.com/mc/game/
+2020-04-30 09:25:12,495 AsyncObject#15 [REPO][SKIN_VERSION_REPO] Attempt #1; timeout: 45000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new3/skin/versions/
+2020-04-30 09:25:12,495 AsyncObject#14 [REPO][EXTRA_VERSION_REPO] Attempt #1; timeout: 45000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new3/
+2020-04-30 09:25:12,541 ExtendedThread#6 [REPO][EXTRA_VERSION_REPO] Success: Reached the repo in 94 ms.
+2020-04-30 09:25:12,561 AsyncObject#15 [REPO][SKIN_VERSION_REPO] Success: Reached the repo in 66 ms.
+2020-04-30 09:25:12,570 AsyncObject#14 [REPO][EXTRA_VERSION_REPO] Success: Reached the repo in 73 ms.
+2020-04-30 09:25:12,582 AsyncObject#15 [SkinVersionList] Got in 87 ms
+2020-04-30 09:25:12,608 AsyncObject#14 [ExtraVersionList] Got in 113 ms
+2020-04-30 09:25:13,127 AsyncObject#13 [REPO][OFFICIAL_VERSION_REPO] Success: Reached the repo in 632 ms.
+2020-04-30 09:25:13,211 AsyncObject#13 [OfficialVersionList] Got in 716 ms
+2020-04-30 09:25:13,212 ExtendedThread#4 [VersionManager] Versions has been refreshed (756 ms)
+2020-04-30 09:25:13,343 ExtendedThread#6 [REPO][ADD_HOT_SERVERS_REPO] Attempt #1; timeout: 45000 ms; url: http://repo.tlauncher.org/update/lch/additional_hot_servers-1.0.json
+2020-04-30 09:25:13,347 ExtendedThread#7 [REPO][HOT_SERVERS_REPO] Attempt #1; timeout: 45000 ms; url: http://repo.tlauncher.org/update/lch/servers/hot_servers-1.0.json
+2020-04-30 09:25:13,381 Thread-12 run server on  37842
+2020-04-30 09:25:13,400 ExtendedThread#6 [REPO][ADD_HOT_SERVERS_REPO] Success: Reached the repo in 53 ms.
+2020-04-30 09:25:13,444 ExtendedThread#7 [REPO][HOT_SERVERS_REPO] Success: Reached the repo in 92 ms.
+2020-04-30 09:25:26,582 LoopedThread#8 [LoginForm] Login was OK. Trying to launch now.
+2020-04-30 09:25:26,847 LoopedThread#8 [Launcher] Running under TLauncher 2.69
+2020-04-30 09:25:26,849 LoopedThread#8 [Launcher] Collecting info...
+2020-04-30 09:25:26,854 LoopedThread#8 [TLauncherManager] before clearLibrary 
+2020-04-30 09:25:26,858 LoopedThread#8 [TLauncherManager] written:  []
+2020-04-30 09:25:26,859 LoopedThread#8 [TLauncherManager] after clearLibrary 
+2020-04-30 09:25:26,860 LoopedThread#8 [Launcher] Force update: false
+2020-04-30 09:25:26,861 LoopedThread#8 [Launcher] Selected version: latest-release
+2020-04-30 09:25:26,863 LoopedThread#8 [Launcher] Selected account: Account{displayName=null, userid=null, uuid=null, username=jpineros}
+2020-04-30 09:25:26,865 LoopedThread#8 [Launcher] Version sync info: VersionSyncInfo{id='1.15.2',
+local=CompleteVersion{id='1.15.2', time=Tue Apr 28 01:31:30 COT 2020, release=Fri Jan 17 05:03:52 COT 2020, type=release, class=net.minecraft.client.main.Main, minimumVersion=21, assets='1.15', source=LOCAL_VERSION_REPO, list=net.minecraft.launcher.updater.OfficialVersionList@49bee986, libraries=[Library{name='com.mojang:patchy:1.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='oshi-project:oshi-core:1.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.dev.jna:jna:4.4.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.dev.jna:platform:3.4.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.ibm.icu:icu4j-core-mojang:51.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:javabridge:1.0.22', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.sf.jopt-simple:jopt-simple:5.0.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-all:4.1.25.Final', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.google.guava:guava:21.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.commons:commons-lang3:3.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-io:commons-io:2.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-codec:commons-codec:1.10', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.jinput:jinput:2.0.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.jutils:jutils:1.0.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:brigadier:1.0.17', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:datafixerupper:2.0.24', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.google.code.gson:gson:2.8.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:authlib:1.5.25', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.commons:commons-compress:1.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.httpcomponents:httpclient:4.3.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-logging:commons-logging:1.1.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.httpcomponents:httpcore:4.3.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='it.unimi.dsi:fastutil:8.2.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.logging.log4j:log4j-api:2.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.logging.log4j:log4j-core:2.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-tinyfd:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-tinyfd:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-macos}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-macos}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-macos}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-macos}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-macos}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-macos}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-tinyfd:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-tinyfd:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-macos}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='com.mojang:text2speech:1.11.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:text2speech:1.11.3', rules=null, natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=net.minecraft.launcher.versions.ExtractRules@4586ceb7, packed='null'}, Library{name='ca.weblite:java-objc-bridge:1.0.0', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-osx}, extract=net.minecraft.launcher.versions.ExtractRules@51ab9b0e, packed='null'}, Library{name='ca.weblite:java-objc-bridge:1.0.0', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}]},
+remote=PartialVersion{id='1.15.2', time=Tue Apr 28 01:31:30 COT 2020, release=Fri Jan 17 05:03:52 COT 2020, type=release, source=OFFICIAL_VERSION_REPO, skinVersion=false, list=net.minecraft.launcher.updater.OfficialVersionList@49bee986}, isInstalled=true, hasRemote=true, isUpToDate=true}
+2020-04-30 09:25:26,977 LoopedThread#8 [Launcher] Java path: /Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin/java
+2020-04-30 09:25:26,983 LoopedThread#8 [Launcher] Checking conditions...
+2020-04-30 09:25:26,990 LoopedThread#8 [Launcher] Comparing assets...
+2020-04-30 09:25:26,991 LoopedThread#8 [AssetsManager] Checking resources...
+2020-04-30 09:25:26,991 LoopedThread#8 [AssetsManager] Reading indexes from file /Users/jpineros/Library/Application Support/minecraft/assets/indexes/1.15.json
+2020-04-30 09:25:27,031 LoopedThread#8 [AssetsManager] Fast comparing: true
+2020-04-30 09:25:27,124 LoopedThread#8 [Launcher] Delta time to compare assets: 133 ms.
+2020-04-30 09:25:27,125 LoopedThread#8 [TLauncherManager] add required libraries: 1.15.2
+2020-04-30 09:25:27,431 LoopedThread#8 [VersionManager] Required for version 1.15.2: []
+2020-04-30 09:25:27,433 LoopedThread#8 [Modpack]  got container
+2020-04-30 09:25:27,447 LoopedThread#8 [TLauncherManager] library will be replaced: com.mojang:authlib:1.5.25
+2020-04-30 09:25:27,448 LoopedThread#8 [TLauncherManager] library will be replaced: com.mojang:patchy:1.1
+2020-04-30 09:25:27,448 LoopedThread#8 [TLauncherManager] library will be added as required: net.minecraft:launchwrapper:1.12
+2020-04-30 09:25:27,449 LoopedThread#8 [TLauncherManager] library will be added as required: org.ow2.asm:asm-commons:6.2
+2020-04-30 09:25:27,450 LoopedThread#8 [TLauncherManager] library will be added as required: org.ow2.asm:asm:6.2
+2020-04-30 09:25:27,451 LoopedThread#8 [TLauncherManager] library will be added as required: org.ow2.asm:asm-tree:6.2
+2020-04-30 09:25:27,452 LoopedThread#8 [TLauncherManager] library will be added: org.tlauncher:tl_skin_cape_1.15.2:1.9
+2020-04-30 09:25:27,463 LoopedThread#8 [Launcher] Unpacking natives...
+2020-04-30 09:25:27,468 LoopedThread#8 [Launcher] Constructing process...
+2020-04-30 09:25:27,477 LoopedThread#8 [Launcher] Constructing classpath...
+2020-04-30 09:25:27,479 LoopedThread#8 [Launcher] Getting Minecraft arguments...
+2020-04-30 09:25:27,483 LoopedThread#8 [Launcher] Full command (characters are not escaped):
+/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin/java -Xdock:icon="/Users/jpineros/Library/Application Support/minecraft/assets/objects/99/991b421dfd401f115241601b2b373140a8d78572" -Xdock:name=Minecraft -Djava.net.preferIPv4Stack=true -Xmn128M -Xmx10922M -XstartOnFirstThread -Xss1M -Djava.library.path=/Users/jpineros/Library/Application Support/minecraft/versions/1.15.2/natives -Dminecraft.launcher.brand=minecraft-launcher -Dminecraft.launcher.version=2.0.1003 -cp /Users/jpineros/Library/Application Support/minecraft/libraries/org/tlauncher/tl_skin_cape_1.15.2/1.9/tl_skin_cape_1.15.2-1.9.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/org/ow2/asm/asm-tree/6.2/asm-tree-6.2.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/org/ow2/asm/asm/6.2/asm-6.2.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/org/ow2/asm/asm-commons/6.2/asm-commons-6.2.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/org/tlauncher/patchy/1.1/patchy-1.1.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/oshi-project/oshi-core/1.1/oshi-core-1.1.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/net/java/dev/jna/jna/4.4.0/jna-4.4.0.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/net/java/dev/jna/platform/3.4.0/platform-3.4.0.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/com/ibm/icu/icu4j-core-mojang/51.2/icu4j-core-mojang-51.2.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/com/mojang/javabridge/1.0.22/javabridge-1.0.22.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/io/netty/netty-all/4.1.25.Final/netty-all-4.1.25.Final.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/com/google/guava/guava/21.0/guava-21.0.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/org/apache/commons/commons-lang3/3.5/commons-lang3-3.5.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/commons-io/commons-io/2.5/commons-io-2.5.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/commons-codec/commons-codec/1.10/commons-codec-1.10.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/net/java/jinput/jinput/2.0.5/jinput-2.0.5.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/net/java/jutils/jutils/1.0.0/jutils-1.0.0.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/com/mojang/brigadier/1.0.17/brigadier-1.0.17.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/com/mojang/datafixerupper/2.0.24/datafixerupper-2.0.24.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/org/tlauncher/authlib/1.6.25/authlib-1.6.25.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/org/apache/httpcomponents/httpclient/4.3.3/httpclient-4.3.3.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/it/unimi/dsi/fastutil/8.2.1/fastutil-8.2.1.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/org/apache/logging/log4j/log4j-api/2.8.1/log4j-api-2.8.1.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/org/apache/logging/log4j/log4j-core/2.8.1/log4j-core-2.8.1.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/org/lwjgl/lwjgl/3.2.1/lwjgl-3.2.1.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/org/lwjgl/lwjgl-jemalloc/3.2.1/lwjgl-jemalloc-3.2.1.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/org/lwjgl/lwjgl-openal/3.2.1/lwjgl-openal-3.2.1.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/org/lwjgl/lwjgl-opengl/3.2.1/lwjgl-opengl-3.2.1.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/org/lwjgl/lwjgl-glfw/3.2.1/lwjgl-glfw-3.2.1.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/org/lwjgl/lwjgl-stb/3.2.1/lwjgl-stb-3.2.1.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/org/lwjgl/lwjgl-tinyfd/3.2.1/lwjgl-tinyfd-3.2.1.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/com/mojang/text2speech/1.11.3/text2speech-1.11.3.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/ca/weblite/java-objc-bridge/1.0.0/java-objc-bridge-1.0.0.jar:/Users/jpineros/Library/Application Support/minecraft/versions/1.15.2/1.15.2.jar -Dminecraft.applet.TargetDirectory=/Users/jpineros/Library/Application Support/minecraft -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M -Dfml.ignoreInvalidMinecraftCertificates=true -Dfml.ignorePatchDiscrepancies=true org.tlauncher.LaunchNew --username jpineros --version 1.15.2 --gameDir /Users/jpineros/Library/Application Support/minecraft --assetsDir /Users/jpineros/Library/Application Support/minecraft/assets --assetIndex 1.15 --uuid 00000000-0000-0000-0000-000000000000 --accessToken null --userType legacy --versionType release --width 925 --height 530 --tweakClass org.tlauncher.tweaker.Tweaker
+2020-04-30 09:25:27,534 LoopedThread#8 [Launcher] Launching Minecraft...
+2020-04-30 09:25:27,535 LoopedThread#8 I'm hiding!
+2020-04-30 09:25:27,538 LoopedThread#8 [TLauncherManager] mods after 
+2020-04-30 09:25:27,545 LoopedThread#8 [InnerMinecraftServersImpl]  search changers of the servers
+2020-04-30 09:25:27,550 LoopedThread#8 read servers from servers.dat []
+2020-04-30 09:25:27,552 LoopedThread#8 [InnerMinecraftServersImpl]  prepare inner servers
+2020-04-30 09:25:27,554 LoopedThread#8 save servers to servers.dat
+2020-04-30 09:25:27,557 LoopedThread#8 [Launcher] Starting Minecraft latest-release...
+2020-04-30 09:25:27,557 LoopedThread#8 [Launcher] Launching in: /Users/jpineros/Library/Application Support/minecraft
+2020-04-30 09:25:27,558 LoopedThread#8 Starting garbage collector: 104 / 345 MB
+2020-04-30 09:25:27,683 LoopedThread#8 Garbage collector completed: 47 / 292 MB
+2020-04-30 09:25:27,691 LoopedThread#8 [Launcher] Processing post-launch actions. Assist launch: true
+2020-04-30 09:25:28,395 Thread-14 ===============================================================================================
+2020-04-30 09:25:28,396 Thread-14 > [09:25:28] [main/INFO]: Loading tweak class name org.tlauncher.tweaker.Tweaker
+2020-04-30 09:25:28,397 Thread-14 > [09:25:28] [main/INFO]: Using primary tweak class name org.tlauncher.tweaker.Tweaker
+2020-04-30 09:25:28,398 Thread-14 > [09:25:28] [main/WARN]: Tweak class name org.tlauncher.tweaker.Tweaker has already been visited -- skipping
+2020-04-30 09:25:28,399 Thread-14 > [09:25:28] [main/INFO]: Calling tweak class org.tlauncher.tweaker.Tweaker
+2020-04-30 09:25:28,400 Thread-14 > Log Path: /Users/jpineros/Library/Application Support/minecraft/./tlLoader/Tweaker.log
+2020-04-30 09:25:28,401 Thread-14 > [main INFO] Using Tweaker
+2020-04-30 09:25:28,402 Thread-14 > [main INFO] Tweaker: acceptOptions
+2020-04-30 09:25:28,402 Thread-14 > [main INFO] Tweaker: injectIntoClassLoader
+2020-04-30 09:25:28,408 Thread-14 > [TLSkinCape] Current version is [:]
+2020-04-30 09:25:28,409 Thread-14 > [TLSkinCape] Current Minecraft version is 1.15.2.
+2020-04-30 09:25:28,410 Thread-14 > [main INFO] Hook method dpy#n()Lsm; loaded.
+2020-04-30 09:25:28,410 Thread-14 > [main INFO] Hook method dpy#m()Lsm; loaded.
+2020-04-30 09:25:28,411 Thread-14 > [main INFO] Hook method dpy#s()Ljava/lang/String; loaded.
+2020-04-30 09:25:28,412 Thread-14 > [main INFO] Hook method ayj#a(Layk;)Z loaded.
+2020-04-30 09:25:28,413 Thread-14 > [main INFO] Hook method dgf#render(IIF)V loaded.
+2020-04-30 09:25:28,413 Thread-14 > [main INFO] Loaded as a library.
+2020-04-30 09:25:28,414 Thread-14 > [main INFO] Tweaker: getLaunchArguments
+2020-04-30 09:25:28,420 Thread-14 > [09:25:28] [main/INFO]: Launching wrapped minecraft {org.tlauncher.MainNew}
+2020-04-30 09:25:28,701 Thread-14 > [Render thread INFO] [TLSkinCape] Method dgf.render(IIF)V successfully hooked.
+2020-04-30 09:25:28,714 Thread-14 > [Render thread INFO] [TLSkinCape] Method ayj.a(Layk;)Z successfully hooked.
+2020-04-30 09:25:28,741 Thread-14 > [Render thread INFO] [TLSkinCape] Method dpy.n()Lsm; successfully hooked.
+2020-04-30 09:25:28,742 Thread-14 > [Render thread INFO] [TLSkinCape] Method dpy.m()Lsm; successfully hooked.
+2020-04-30 09:25:28,743 Thread-14 > [Render thread INFO] [TLSkinCape] Method dpy.s()Ljava/lang/String; successfully hooked.
+2020-04-30 09:25:28,927 Thread-14 > [09:25:28] [main/INFO]: Setting user: jpineros
+2020-04-30 09:25:32,734 Thread-14 > [09:25:32] [main/INFO]: Backend library: LWJGL version 3.2.1 build 12
+2020-04-30 09:25:35,481 Thread-14 > [09:25:35] [main/INFO]: Reloading ResourceManager: Default
+2020-04-30 09:25:35,514 Thread-14 > [09:25:35] [main/INFO]: [STDOUT]: [Connector] trying to start...
+2020-04-30 09:25:35,515 Thread-14 > [09:25:35] [main/INFO]: [STDOUT]: [Connector] no server info
+2020-04-30 09:25:35,517 Thread-14 > [09:25:35] [main/INFO]: [STDOUT]: [Connector] end
+2020-04-30 09:25:36,421 Thread-14 > [09:25:36] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+2020-04-30 09:25:43,524 Thread-14 > [09:25:43] [main/INFO]: OpenAL initialized.
+2020-04-30 09:25:43,525 Thread-14 > [09:25:43] [main/INFO]: Sound engine started
+2020-04-30 09:25:43,701 Thread-14 > [09:25:43] [main/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/blocks.png-atlas
+2020-04-30 09:25:43,714 Thread-14 > [09:25:43] [main/INFO]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
+2020-04-30 09:25:43,715 Thread-14 > [09:25:43] [main/INFO]: Created: 1024x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+2020-04-30 09:25:43,716 Thread-14 > [09:25:43] [main/INFO]: Created: 1024x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+2020-04-30 09:25:43,717 Thread-14 > [09:25:43] [main/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+2020-04-30 09:25:43,718 Thread-14 > [09:25:43] [main/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+2020-04-30 09:25:43,719 Thread-14 > [09:25:43] [main/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+2020-04-30 09:25:44,154 Thread-14 > [09:25:44] [main/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+2020-04-30 09:25:44,156 Thread-14 > [09:25:44] [main/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+2020-04-30 09:25:44,157 Thread-14 > [09:25:44] [main/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+2020-04-30 09:25:49,536 Thread-14 > [09:25:49] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2020-04-30 09:25:49,539 Thread-14 > [09:25:49] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+2020-04-30 09:25:49,541 Thread-14 > [09:25:49] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+2020-04-30 09:25:49,542 Thread-14 > [09:25:49] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2020-04-30 09:25:49,544 Thread-14 > [09:25:49] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+2020-04-30 09:25:49,584 Thread-14 > [09:25:49] [Server thread/INFO]: Starting integrated minecraft server version 1.15.2
+2020-04-30 09:25:49,586 Thread-14 > [09:25:49] [Server thread/INFO]: Generating keypair
+2020-04-30 09:25:49,685 Thread-14 > [09:25:49] [Server thread/INFO]: Reloading ResourceManager: Default
+2020-04-30 09:25:50,021 Thread-14 > [09:25:50] [Server thread/INFO]: Loaded 6 recipes
+2020-04-30 09:25:50,208 Thread-14 > [09:25:50] [Server thread/INFO]: Loaded 825 advancements
+2020-04-30 09:25:50,475 Thread-14 > [09:25:50] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+2020-04-30 09:25:51,483 Thread-14 > [09:25:51] [main/INFO]: Preparing spawn area: 0%
+2020-04-30 09:25:51,484 Thread-14 > [09:25:51] [main/INFO]: Preparing spawn area: 0%
+2020-04-30 09:25:51,505 Thread-14 > [09:25:51] [main/INFO]: Preparing spawn area: 0%
+2020-04-30 09:25:51,985 Thread-14 > [09:25:51] [main/INFO]: Time elapsed: 1490 ms
+2020-04-30 09:25:52,118 Thread-14 > 2020-04-30 09:25:52.117 java[54067:954833] [JRSAppKitAWT markAppIsDaemon]: Process manager already initialized: can't fully enable headless mode.
+2020-04-30 09:25:52,494 Thread-14 > [09:25:52] [Server thread/INFO]: Changing view distance to 11, from 10
+2020-04-30 09:25:53,250 Thread-14 > [09:25:53] [Server thread/INFO]: jpineros[local:E:14a52cb9] logged in with entity id 204 at (-5.373128869934466, 64.0, 32.30000001192091)
+2020-04-30 09:25:53,302 Thread-14 > [09:25:53] [Server thread/INFO]: jpineros joined the game
+2020-04-30 09:25:53,570 Thread-14 > [09:25:53] [Server thread/INFO]: Saving and pausing game...
+2020-04-30 09:25:53,607 Thread-14 > [09:25:53] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise'/minecraft:overworld
+2020-04-30 09:25:54,200 Thread-14 > [09:25:54] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise'/minecraft:the_end
+2020-04-30 09:25:54,202 Thread-14 > [09:25:54] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise'/minecraft:the_nether
+2020-04-30 09:25:54,265 Thread-14 > [09:25:54] [main/INFO]: Loaded 368 advancements
+2020-04-30 09:26:04,585 Thread-14 > [09:26:04] [Server thread/INFO]: Saving and pausing game...
+2020-04-30 09:26:04,598 Thread-14 > [09:26:04] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise'/minecraft:overworld
+2020-04-30 09:26:04,746 Thread-14 > [09:26:04] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise'/minecraft:the_end
+2020-04-30 09:26:04,748 Thread-14 > [09:26:04] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise'/minecraft:the_nether
+2020-04-30 09:26:26,085 Thread-14 > [09:26:26] [Server thread/INFO]: Saving and pausing game...
+2020-04-30 09:26:26,094 Thread-14 > [09:26:26] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise'/minecraft:overworld
+2020-04-30 09:26:26,224 Thread-14 > [09:26:26] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise'/minecraft:the_end
+2020-04-30 09:26:26,226 Thread-14 > [09:26:26] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise'/minecraft:the_nether
+2020-04-30 09:26:27,141 Thread-14 > [09:26:27] [Server thread/INFO]: jpineros lost connection: Disconnected
+2020-04-30 09:26:27,143 Thread-14 > [09:26:27] [Server thread/INFO]: jpineros left the game
+2020-04-30 09:26:27,151 Thread-14 > [09:26:27] [Server thread/INFO]: Stopping singleplayer server as player logged out
+2020-04-30 09:26:27,185 Thread-14 > [09:26:27] [Server thread/INFO]: Stopping server
+2020-04-30 09:26:27,187 Thread-14 > [09:26:27] [Server thread/INFO]: Saving players
+2020-04-30 09:26:27,188 Thread-14 > [09:26:27] [Server thread/INFO]: Saving worlds
+2020-04-30 09:26:27,190 Thread-14 > [09:26:27] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise'/minecraft:overworld
+2020-04-30 09:26:27,338 Thread-14 > [09:26:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (Jhean Paradise): All chunks are saved
+2020-04-30 09:26:27,340 Thread-14 > [09:26:27] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise'/minecraft:the_end
+2020-04-30 09:26:27,341 Thread-14 > [09:26:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+2020-04-30 09:26:27,342 Thread-14 > [09:26:27] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise'/minecraft:the_nether
+2020-04-30 09:26:27,343 Thread-14 > [09:26:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+2020-04-30 09:26:27,344 Thread-14 > [09:26:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (Jhean Paradise): All chunks are saved
+2020-04-30 09:26:27,351 Thread-14 > [09:26:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+2020-04-30 09:26:27,353 Thread-14 > [09:26:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+2020-04-30 09:27:02,013 Thread-14 > [09:27:02] [main/INFO]: Stopping!
+2020-04-30 09:27:02,540 Thread-14 Here I am!
+2020-04-30 09:27:02,553 Thread-14 [VersionManager] Refreshing versions locally...
+2020-04-30 09:27:02,559 Thread-14 [VersionManager] Versions has been refreshed (5 ms)
+2020-04-30 09:27:02,571 LoopedThread#8 [Launcher] Launcher exited.
+2020-04-30 09:27:02,572 Thread-14 [Launcher] Minecraft closed with exit code: 0
+2020-04-30 09:46:54,695 LoopedThread#8 [LoginForm] Login was OK. Trying to launch now.
+2020-04-30 09:46:54,930 LoopedThread#8 [Launcher] Running under TLauncher 2.69
+2020-04-30 09:46:54,931 LoopedThread#8 [Launcher] Collecting info...
+2020-04-30 09:46:54,934 LoopedThread#8 [TLauncherManager] before clearLibrary 
+2020-04-30 09:46:54,936 LoopedThread#8 [TLauncherManager] written:  []
+2020-04-30 09:46:54,937 LoopedThread#8 [TLauncherManager] after clearLibrary 
+2020-04-30 09:46:54,938 LoopedThread#8 [Launcher] Force update: false
+2020-04-30 09:46:54,938 LoopedThread#8 [Launcher] Selected version: latest-release
+2020-04-30 09:46:54,939 LoopedThread#8 [Launcher] Selected account: Account{displayName=null, userid=null, uuid=null, username=jpineros}
+2020-04-30 09:46:54,940 LoopedThread#8 [Launcher] Version sync info: VersionSyncInfo{id='1.15.2',
+local=CompleteVersion{id='1.15.2', time=Tue Apr 28 01:31:30 COT 2020, release=Fri Jan 17 05:03:52 COT 2020, type=release, class=net.minecraft.client.main.Main, minimumVersion=21, assets='1.15', source=LOCAL_VERSION_REPO, list=net.minecraft.launcher.updater.OfficialVersionList@49bee986, libraries=[Library{name='com.mojang:patchy:1.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='oshi-project:oshi-core:1.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.dev.jna:jna:4.4.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.dev.jna:platform:3.4.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.ibm.icu:icu4j-core-mojang:51.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:javabridge:1.0.22', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.sf.jopt-simple:jopt-simple:5.0.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-all:4.1.25.Final', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.google.guava:guava:21.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.commons:commons-lang3:3.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-io:commons-io:2.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-codec:commons-codec:1.10', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.jinput:jinput:2.0.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.jutils:jutils:1.0.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:brigadier:1.0.17', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:datafixerupper:2.0.24', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.google.code.gson:gson:2.8.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:authlib:1.5.25', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.commons:commons-compress:1.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.httpcomponents:httpclient:4.3.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-logging:commons-logging:1.1.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.httpcomponents:httpcore:4.3.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='it.unimi.dsi:fastutil:8.2.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.logging.log4j:log4j-api:2.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.logging.log4j:log4j-core:2.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-tinyfd:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-tinyfd:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-macos}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-macos}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-macos}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-macos}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-macos}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-macos}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-tinyfd:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-tinyfd:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-macos}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='com.mojang:text2speech:1.11.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:text2speech:1.11.3', rules=null, natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=net.minecraft.launcher.versions.ExtractRules@663ff114, packed='null'}, Library{name='ca.weblite:java-objc-bridge:1.0.0', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-osx}, extract=net.minecraft.launcher.versions.ExtractRules@6200790b, packed='null'}, Library{name='ca.weblite:java-objc-bridge:1.0.0', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}]},
+remote=PartialVersion{id='1.15.2', time=Tue Apr 28 01:31:30 COT 2020, release=Fri Jan 17 05:03:52 COT 2020, type=release, source=OFFICIAL_VERSION_REPO, skinVersion=false, list=net.minecraft.launcher.updater.OfficialVersionList@49bee986}, isInstalled=true, hasRemote=true, isUpToDate=true}
+2020-04-30 09:46:55,031 LoopedThread#8 [Launcher] Java path: /Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin/java
+2020-04-30 09:46:55,032 LoopedThread#8 [Launcher] Checking conditions...
+2020-04-30 09:46:55,034 LoopedThread#8 [Launcher] Comparing assets...
+2020-04-30 09:46:55,034 LoopedThread#8 [AssetsManager] Checking resources...
+2020-04-30 09:46:55,034 LoopedThread#8 [AssetsManager] Reading indexes from file /Users/jpineros/Library/Application Support/minecraft/assets/indexes/1.15.json
+2020-04-30 09:46:55,043 LoopedThread#8 [AssetsManager] Fast comparing: true
+2020-04-30 09:46:55,068 LoopedThread#8 [Launcher] Delta time to compare assets: 34 ms.
+2020-04-30 09:46:55,069 LoopedThread#8 [TLauncherManager] add required libraries: 1.15.2
+2020-04-30 09:46:55,240 LoopedThread#8 [VersionManager] Required for version 1.15.2: []
+2020-04-30 09:46:55,241 LoopedThread#8 [Modpack]  got container
+2020-04-30 09:46:55,246 LoopedThread#8 [TLauncherManager] library will be replaced: com.mojang:authlib:1.5.25
+2020-04-30 09:46:55,247 LoopedThread#8 [TLauncherManager] library will be replaced: com.mojang:patchy:1.1
+2020-04-30 09:46:55,247 LoopedThread#8 [TLauncherManager] library will be added as required: net.minecraft:launchwrapper:1.12
+2020-04-30 09:46:55,248 LoopedThread#8 [TLauncherManager] library will be added as required: org.ow2.asm:asm-commons:6.2
+2020-04-30 09:46:55,249 LoopedThread#8 [TLauncherManager] library will be added as required: org.ow2.asm:asm:6.2
+2020-04-30 09:46:55,250 LoopedThread#8 [TLauncherManager] library will be added as required: org.ow2.asm:asm-tree:6.2
+2020-04-30 09:46:55,250 LoopedThread#8 [TLauncherManager] library will be added: org.tlauncher:tl_skin_cape_1.15.2:1.9
+2020-04-30 09:46:55,258 LoopedThread#8 [Launcher] Unpacking natives...
+2020-04-30 09:46:55,260 LoopedThread#8 [Launcher] Constructing process...
+2020-04-30 09:46:55,270 LoopedThread#8 [Launcher] Constructing classpath...
+2020-04-30 09:46:55,272 LoopedThread#8 [Launcher] Getting Minecraft arguments...
+2020-04-30 09:46:55,273 LoopedThread#8 [Launcher] Full command (characters are not escaped):
+/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin/java -Xdock:icon="/Users/jpineros/Library/Application Support/minecraft/assets/objects/99/991b421dfd401f115241601b2b373140a8d78572" -Xdock:name=Minecraft -Djava.net.preferIPv4Stack=true -Xmn128M -Xmx10922M -XstartOnFirstThread -Xss1M -Djava.library.path=/Users/jpineros/Library/Application Support/minecraft/versions/1.15.2/natives -Dminecraft.launcher.brand=minecraft-launcher -Dminecraft.launcher.version=2.0.1003 -cp /Users/jpineros/Library/Application Support/minecraft/libraries/org/tlauncher/tl_skin_cape_1.15.2/1.9/tl_skin_cape_1.15.2-1.9.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/org/ow2/asm/asm-tree/6.2/asm-tree-6.2.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/org/ow2/asm/asm/6.2/asm-6.2.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/org/ow2/asm/asm-commons/6.2/asm-commons-6.2.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/org/tlauncher/patchy/1.1/patchy-1.1.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/oshi-project/oshi-core/1.1/oshi-core-1.1.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/net/java/dev/jna/jna/4.4.0/jna-4.4.0.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/net/java/dev/jna/platform/3.4.0/platform-3.4.0.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/com/ibm/icu/icu4j-core-mojang/51.2/icu4j-core-mojang-51.2.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/com/mojang/javabridge/1.0.22/javabridge-1.0.22.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/io/netty/netty-all/4.1.25.Final/netty-all-4.1.25.Final.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/com/google/guava/guava/21.0/guava-21.0.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/org/apache/commons/commons-lang3/3.5/commons-lang3-3.5.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/commons-io/commons-io/2.5/commons-io-2.5.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/commons-codec/commons-codec/1.10/commons-codec-1.10.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/net/java/jinput/jinput/2.0.5/jinput-2.0.5.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/net/java/jutils/jutils/1.0.0/jutils-1.0.0.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/com/mojang/brigadier/1.0.17/brigadier-1.0.17.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/com/mojang/datafixerupper/2.0.24/datafixerupper-2.0.24.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/org/tlauncher/authlib/1.6.25/authlib-1.6.25.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/org/apache/httpcomponents/httpclient/4.3.3/httpclient-4.3.3.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/it/unimi/dsi/fastutil/8.2.1/fastutil-8.2.1.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/org/apache/logging/log4j/log4j-api/2.8.1/log4j-api-2.8.1.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/org/apache/logging/log4j/log4j-core/2.8.1/log4j-core-2.8.1.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/org/lwjgl/lwjgl/3.2.1/lwjgl-3.2.1.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/org/lwjgl/lwjgl-jemalloc/3.2.1/lwjgl-jemalloc-3.2.1.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/org/lwjgl/lwjgl-openal/3.2.1/lwjgl-openal-3.2.1.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/org/lwjgl/lwjgl-opengl/3.2.1/lwjgl-opengl-3.2.1.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/org/lwjgl/lwjgl-glfw/3.2.1/lwjgl-glfw-3.2.1.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/org/lwjgl/lwjgl-stb/3.2.1/lwjgl-stb-3.2.1.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/org/lwjgl/lwjgl-tinyfd/3.2.1/lwjgl-tinyfd-3.2.1.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/com/mojang/text2speech/1.11.3/text2speech-1.11.3.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/ca/weblite/java-objc-bridge/1.0.0/java-objc-bridge-1.0.0.jar:/Users/jpineros/Library/Application Support/minecraft/versions/1.15.2/1.15.2.jar -Dminecraft.applet.TargetDirectory=/Users/jpineros/Library/Application Support/minecraft -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M -Dfml.ignoreInvalidMinecraftCertificates=true -Dfml.ignorePatchDiscrepancies=true org.tlauncher.LaunchNew --username jpineros --version 1.15.2 --gameDir /Users/jpineros/Library/Application Support/minecraft --assetsDir /Users/jpineros/Library/Application Support/minecraft/assets --assetIndex 1.15 --uuid 00000000-0000-0000-0000-000000000000 --accessToken null --userType legacy --versionType release --width 925 --height 530 --tweakClass org.tlauncher.tweaker.Tweaker
+2020-04-30 09:46:55,318 LoopedThread#8 [Launcher] Launching Minecraft...
+2020-04-30 09:46:55,319 LoopedThread#8 I'm hiding!
+2020-04-30 09:46:55,322 LoopedThread#8 [TLauncherManager] mods after 
+2020-04-30 09:46:55,323 LoopedThread#8 [InnerMinecraftServersImpl]  search changers of the servers
+2020-04-30 09:46:55,324 LoopedThread#8 read servers from servers.dat []
+2020-04-30 09:46:55,325 LoopedThread#8 [InnerMinecraftServersImpl]  prepare inner servers
+2020-04-30 09:46:55,325 LoopedThread#8 save servers to servers.dat
+2020-04-30 09:46:55,327 LoopedThread#8 [Launcher] Starting Minecraft latest-release...
+2020-04-30 09:46:55,327 LoopedThread#8 [Launcher] Launching in: /Users/jpineros/Library/Application Support/minecraft
+2020-04-30 09:46:55,328 LoopedThread#8 Starting garbage collector: 59 / 335 MB
+2020-04-30 09:46:55,417 LoopedThread#8 Garbage collector completed: 43 / 298 MB
+2020-04-30 09:46:55,430 LoopedThread#8 [Launcher] Processing post-launch actions. Assist launch: true
+2020-04-30 09:46:56,258 Thread-40 ===============================================================================================
+2020-04-30 09:46:56,260 Thread-40 > [09:46:56] [main/INFO]: Loading tweak class name org.tlauncher.tweaker.Tweaker
+2020-04-30 09:46:56,261 Thread-40 > [09:46:56] [main/INFO]: Using primary tweak class name org.tlauncher.tweaker.Tweaker
+2020-04-30 09:46:56,262 Thread-40 > [09:46:56] [main/WARN]: Tweak class name org.tlauncher.tweaker.Tweaker has already been visited -- skipping
+2020-04-30 09:46:56,263 Thread-40 > [09:46:56] [main/INFO]: Calling tweak class org.tlauncher.tweaker.Tweaker
+2020-04-30 09:46:56,264 Thread-40 > Log Path: /Users/jpineros/Library/Application Support/minecraft/./tlLoader/Tweaker.log
+2020-04-30 09:46:56,265 Thread-40 > [main INFO] Using Tweaker
+2020-04-30 09:46:56,265 Thread-40 > [main INFO] Tweaker: acceptOptions
+2020-04-30 09:46:56,266 Thread-40 > [main INFO] Tweaker: injectIntoClassLoader
+2020-04-30 09:46:56,271 Thread-40 > [TLSkinCape] Current version is [:]
+2020-04-30 09:46:56,272 Thread-40 > [TLSkinCape] Current Minecraft version is 1.15.2.
+2020-04-30 09:46:56,272 Thread-40 > [main INFO] Hook method dpy#n()Lsm; loaded.
+2020-04-30 09:46:56,273 Thread-40 > [main INFO] Hook method dpy#m()Lsm; loaded.
+2020-04-30 09:46:56,274 Thread-40 > [main INFO] Hook method dpy#s()Ljava/lang/String; loaded.
+2020-04-30 09:46:56,274 Thread-40 > [main INFO] Hook method ayj#a(Layk;)Z loaded.
+2020-04-30 09:46:56,275 Thread-40 > [main INFO] Hook method dgf#render(IIF)V loaded.
+2020-04-30 09:46:56,276 Thread-40 > [main INFO] Loaded as a library.
+2020-04-30 09:46:56,276 Thread-40 > [main INFO] Tweaker: getLaunchArguments
+2020-04-30 09:46:56,283 Thread-40 > [09:46:56] [main/INFO]: Launching wrapped minecraft {org.tlauncher.MainNew}
+2020-04-30 09:46:56,554 Thread-40 > [Render thread INFO] [TLSkinCape] Method dgf.render(IIF)V successfully hooked.
+2020-04-30 09:46:56,580 Thread-40 > [Render thread INFO] [TLSkinCape] Method dpy.n()Lsm; successfully hooked.
+2020-04-30 09:46:56,582 Thread-40 > [Render thread INFO] [TLSkinCape] Method dpy.m()Lsm; successfully hooked.
+2020-04-30 09:46:56,582 Thread-40 > [Render thread INFO] [TLSkinCape] Method dpy.s()Ljava/lang/String; successfully hooked.
+2020-04-30 09:46:56,588 Thread-40 > [Render thread INFO] [TLSkinCape] Method ayj.a(Layk;)Z successfully hooked.
+2020-04-30 09:46:56,777 Thread-40 > [09:46:56] [main/INFO]: Setting user: jpineros
+2020-04-30 09:46:59,553 Thread-40 > [09:46:59] [main/INFO]: Backend library: LWJGL version 3.2.1 build 12
+2020-04-30 09:47:02,058 Thread-40 > [09:47:02] [main/INFO]: Reloading ResourceManager: Default
+2020-04-30 09:47:02,076 Thread-40 > [09:47:02] [main/INFO]: [STDOUT]: [Connector] trying to start...
+2020-04-30 09:47:02,077 Thread-40 > [09:47:02] [main/INFO]: [STDOUT]: [Connector] no server info
+2020-04-30 09:47:02,079 Thread-40 > [09:47:02] [main/INFO]: [STDOUT]: [Connector] end
+2020-04-30 09:47:02,902 Thread-40 > [09:47:02] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+2020-04-30 09:47:08,064 Thread-40 > [09:47:08] [main/INFO]: OpenAL initialized.
+2020-04-30 09:47:08,065 Thread-40 > [09:47:08] [main/INFO]: Sound engine started
+2020-04-30 09:47:08,258 Thread-40 > [09:47:08] [main/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/blocks.png-atlas
+2020-04-30 09:47:08,272 Thread-40 > [09:47:08] [main/INFO]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
+2020-04-30 09:47:08,273 Thread-40 > [09:47:08] [main/INFO]: Created: 1024x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+2020-04-30 09:47:08,275 Thread-40 > [09:47:08] [main/INFO]: Created: 1024x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+2020-04-30 09:47:08,276 Thread-40 > [09:47:08] [main/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+2020-04-30 09:47:08,278 Thread-40 > [09:47:08] [main/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+2020-04-30 09:47:08,279 Thread-40 > [09:47:08] [main/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+2020-04-30 09:47:08,720 Thread-40 > [09:47:08] [main/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+2020-04-30 09:47:08,722 Thread-40 > [09:47:08] [main/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+2020-04-30 09:47:08,724 Thread-40 > [09:47:08] [main/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+2020-04-30 09:47:38,786 Thread-40 > [09:47:38] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2020-04-30 09:47:38,789 Thread-40 > [09:47:38] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+2020-04-30 09:47:38,790 Thread-40 > [09:47:38] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+2020-04-30 09:47:38,792 Thread-40 > [09:47:38] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2020-04-30 09:47:38,794 Thread-40 > [09:47:38] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+2020-04-30 09:47:38,824 Thread-40 > [09:47:38] [Server thread/INFO]: Starting integrated minecraft server version 1.15.2
+2020-04-30 09:47:38,825 Thread-40 > [09:47:38] [Server thread/INFO]: Generating keypair
+2020-04-30 09:47:38,904 Thread-40 > [09:47:38] [Server thread/INFO]: Reloading ResourceManager: Default
+2020-04-30 09:47:39,194 Thread-40 > [09:47:39] [Server thread/INFO]: Loaded 6 recipes
+2020-04-30 09:47:39,397 Thread-40 > [09:47:39] [Server thread/INFO]: Loaded 825 advancements
+2020-04-30 09:47:39,638 Thread-40 > [09:47:39] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+2020-04-30 09:47:40,550 Thread-40 > [09:47:40] [main/INFO]: Preparing spawn area: 0%
+2020-04-30 09:47:40,552 Thread-40 > [09:47:40] [main/INFO]: Preparing spawn area: 0%
+2020-04-30 09:47:40,720 Thread-40 > [09:47:40] [main/INFO]: Preparing spawn area: 0%
+2020-04-30 09:47:41,035 Thread-40 > [09:47:41] [main/INFO]: Time elapsed: 1391 ms
+2020-04-30 09:47:41,082 Thread-40 > 2020-04-30 09:47:41.082 java[54086:963073] [JRSAppKitAWT markAppIsDaemon]: Process manager already initialized: can't fully enable headless mode.
+2020-04-30 09:47:41,314 Thread-40 > [09:47:41] [Server thread/INFO]: Changing view distance to 11, from 10
+2020-04-30 09:47:42,180 Thread-40 > [09:47:42] [Server thread/INFO]: jpineros[local:E:dd35a5db] logged in with entity id 204 at (2.1995666075869216, 65.0, 51.25017725255482)
+2020-04-30 09:47:42,215 Thread-40 > [09:47:42] [Server thread/INFO]: jpineros joined the game
+2020-04-30 09:47:42,469 Thread-40 > [09:47:42] [Server thread/INFO]: Saving and pausing game...
+2020-04-30 09:47:42,513 Thread-40 > [09:47:42] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise'/minecraft:the_nether
+2020-04-30 09:47:42,515 Thread-40 > [09:47:42] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise'/minecraft:the_end
+2020-04-30 09:47:42,517 Thread-40 > [09:47:42] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise'/minecraft:overworld
+2020-04-30 09:47:43,373 Thread-40 > [09:47:43] [main/INFO]: Loaded 368 advancements
+2020-04-30 09:48:04,652 Thread-40 > [09:48:04] [main/INFO]: textures 'jpineros' was added, skin: false,cape: false, max waiting: 1 ,during : 21768 
+2020-04-30 09:52:23,821 Thread-40 > [09:52:23] [Server thread/INFO]: Saving and pausing game...
+2020-04-30 09:52:23,845 Thread-40 > [09:52:23] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise'/minecraft:the_nether
+2020-04-30 09:52:23,847 Thread-40 > [09:52:23] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise'/minecraft:the_end
+2020-04-30 09:52:23,850 Thread-40 > [09:52:23] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise'/minecraft:overworld
+2020-04-30 09:57:38,694 Thread-40 > [09:57:38] [Server thread/INFO]: jpineros has made the advancement [Ice Bucket Challenge]
+2020-04-30 09:57:38,710 Thread-40 > [09:57:38] [main/INFO]: [CHAT] jpineros has made the advancement [Ice Bucket Challenge]
+2020-04-30 09:57:38,741 Thread-40 > [09:57:38] [main/INFO]: Loaded 369 advancements
+2020-04-30 10:01:41,042 Thread-40 > [10:01:41] [main/INFO]: [CHAT] Respawn point set
+2020-04-30 10:04:31,708 Thread-40 > [10:04:31] [main/INFO]: Loaded 369 advancements
+2020-04-30 10:05:37,439 Thread-40 > [10:05:37] [Server thread/INFO]: Saving and pausing game...
+2020-04-30 10:05:37,448 Thread-40 > [10:05:37] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise'/minecraft:the_nether
+2020-04-30 10:05:37,450 Thread-40 > [10:05:37] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise'/minecraft:the_end
+2020-04-30 10:05:37,451 Thread-40 > [10:05:37] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise'/minecraft:overworld
+2020-04-30 10:05:38,547 Thread-40 > [10:05:38] [Server thread/INFO]: jpineros lost connection: Disconnected
+2020-04-30 10:05:38,548 Thread-40 > [10:05:38] [Server thread/INFO]: jpineros left the game
+2020-04-30 10:05:38,554 Thread-40 > [10:05:38] [Server thread/INFO]: Stopping singleplayer server as player logged out
+2020-04-30 10:05:38,590 Thread-40 > [10:05:38] [Server thread/INFO]: Stopping server
+2020-04-30 10:05:38,590 Thread-40 > [10:05:38] [Server thread/INFO]: Saving players
+2020-04-30 10:05:38,591 Thread-40 > [10:05:38] [Server thread/INFO]: Saving worlds
+2020-04-30 10:05:38,592 Thread-40 > [10:05:38] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise'/minecraft:the_nether
+2020-04-30 10:05:38,594 Thread-40 > [10:05:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+2020-04-30 10:05:38,595 Thread-40 > [10:05:38] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise'/minecraft:the_end
+2020-04-30 10:05:38,596 Thread-40 > [10:05:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+2020-04-30 10:05:38,597 Thread-40 > [10:05:38] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise'/minecraft:overworld
+2020-04-30 10:05:38,810 Thread-40 > [10:05:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (Jhean Paradise): All chunks are saved
+2020-04-30 10:05:38,813 Thread-40 > [10:05:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+2020-04-30 10:05:38,814 Thread-40 > [10:05:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+2020-04-30 10:05:38,815 Thread-40 > [10:05:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (Jhean Paradise): All chunks are saved
+2020-04-30 10:05:58,371 Thread-40 > [10:05:58] [main/INFO]: Stopping!
+2020-04-30 10:05:59,251 Thread-40 Here I am!
+2020-04-30 10:05:59,273 Thread-40 [VersionManager] Refreshing versions locally...
+2020-04-30 10:05:59,281 Thread-40 [VersionManager] Versions has been refreshed (8 ms)
+2020-04-30 10:05:59,314 LoopedThread#8 [Launcher] Launcher exited.
+2020-04-30 10:05:59,315 Thread-40 [Launcher] Minecraft closed with exit code: 0
+2020-04-30 10:53:40,737 AWT-EventQueue-0 Good bye!
+2020-04-30 10:53:40,739 AWT-EventQueue-0 [TLauncherManager] before clearLibrary 
+2020-04-30 10:53:40,741 AWT-EventQueue-0 [TLauncherManager] written:  []
+2020-04-30 10:53:40,741 AWT-EventQueue-0 [TLauncherManager] after clearLibrary 
+2020-05-05 19:47:46,483 main [Loading] INITIALIZING
+Starting TLauncher 2.69 RELEASE
+For more information, visit https://tlauncher.org/
+Startup time: May 5, 2020 7:47:45 PM
+---
+run double running protectin
+[Loading] LOADING_CONFIGURATION
+Loading configuration from file: /Users/jpineros/Library/Application Support/tlauncher/tlauncher-2.0.properties
+[Configuration] Constant values: {}
+Machine info: -------------------------------------------------------
+Mac OS X 10.15.4, Java 1.8.0_231, jvm bit x64, 16384 MB RAM
+java path=/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin/java
+Radeon Pro 560X
+-------------------------------------------------------
+Selected locale: en_US
+[Loading] LOADING_CONSOLE
+
+
+2020-05-05 19:47:46,484 main [Downloader2] Loaded configuration: good
+2020-05-05 19:47:46,612 ExtendedThread#4 [Updater] Requesting an update...
+2020-05-05 19:47:46,614 ExtendedThread#4 [Updater] Requesting from: http://repo.tlauncher.org/update/lch/update_2.0.json
+2020-05-05 19:47:46,614 ExtendedThread#4 [Updater] Making request: http://repo.tlauncher.org/update/lch/update_2.0.json?version=2.69&client=1989ed1d-7f80-4273-b5a5-0b1ae81b1ee6
+2020-05-05 19:47:46,709 main [Browser] Loading resources...
+2020-05-05 19:47:46,819 main [Browser] Loading background...
+2020-05-05 19:47:46,878 main [Browser] Cleaning up after loading:
+2020-05-05 19:47:46,878 main Starting garbage collector: 86 / 199 MB
+2020-05-05 19:47:46,932 main Garbage collector completed: 17 / 230 MB
+2020-05-05 19:47:46,934 main [Loading] LOADING_MANAGERS
+2020-05-05 19:47:46,940 main [LocalVersionList] Base directory: /Users/jpineros/Library/Application Support/minecraft
+2020-05-05 19:47:46,951 main [ProfileManager] Refreshing profiles from: /Users/jpineros/Library/Application Support/minecraft/TlauncherProfiles.json
+2020-05-05 19:47:46,952 ExtendedThread#4 [Updater] Request time: 338 ms
+2020-05-05 19:47:46,952 ExtendedThread#4 [Updater] Successfully requested from: http://repo.tlauncher.org/update/lch/update_2.0.json
+2020-05-05 19:47:46,955 main [AdvertisingStatusObserver]  started to get ad information
+2020-05-05 19:47:46,955 ExtendedThread#6 [GsonUtil]  request to http://repo.tlauncher.org/update/downloads/libraries/org/tlauncher/authlib/libraries-1.6.json
+2020-05-05 19:47:46,955 main [AdvertisingStatusObserver]  finished to get add information
+2020-05-05 19:47:46,960 main [Loading] LOADING_WINDOW
+2020-05-05 19:47:47,122 JavaFX Application Thread [JFXStartPageLoader]  start load page: http://page.tlauncher.org/update/downloads/configs/client/eng.html
+2020-05-05 19:47:47,127 JavaFX Application Thread [Browser] Running in JavaFX Thread
+2020-05-05 19:47:47,128 JavaFX Application Thread [Browser] Preparing JavaFX...
+2020-05-05 19:47:47,190 JavaFX Application Thread [Browser] Initializing...
+2020-05-05 19:47:47,198 ExtendedThread#7 [REPO][SERVER_LIST_REPO] Success: Reached the repo in 238 ms.
+2020-05-05 19:47:47,274 main [Loading] PREPARING_MAINPANE
+2020-05-05 19:47:47,387 main [Downloader2] Loaded configuration: good
+2020-05-05 19:47:47,960 JavaFX Application Thread [JFXStartPageLoader]  succeeded load page: http://page.tlauncher.org/update/downloads/configs/client/eng.html during 0
+2020-05-05 19:47:47,961 JavaFX Application Thread [Browser@2022727765] Loaded successfully: "http://page.tlauncher.org/update/downloads/configs/client/eng.html"
+2020-05-05 19:47:48,047 JavaFX Application Thread [Browser] add listens into server_choose
+2020-05-05 19:47:48,047 JavaFX Application Thread [Browser] finished listens into server_choose
+2020-05-05 19:47:48,277 main [Loading] POSTINIT_GUI
+2020-05-05 19:47:48,277 main [Frame] Packing main frame...
+2020-05-05 19:47:48,367 main [Frame] Resizing main pane...
+2020-05-05 19:47:48,368 main Updater is already closed. Showing up...
+2020-05-05 19:47:48,368 main Visibility set.
+2020-05-05 19:47:48,371 main [Loading] REFRESHING_INFO
+2020-05-05 19:47:48,372 ExtendedThread#4 [VersionManager] Refreshing versions remotely...
+2020-05-05 19:47:48,372 ExtendedThread#6 [REPO][EXTRA_VERSION_REPO] Attempt #1; timeout: 45000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new3/
+2020-05-05 19:47:48,375 main Started! (2399 ms.)
+2020-05-05 19:47:48,375 main [Loading] SUCCESS
+2020-05-05 19:47:48,394 main [TLauncher] show tlauncher!!!
+2020-05-05 19:47:48,394 main [Double running] clear time label
+2020-05-05 19:47:48,414 AsyncObject#13 [REPO][OFFICIAL_VERSION_REPO] Attempt #1; timeout: 45000 ms; url: https://launchermeta.mojang.com/mc/game/
+2020-05-05 19:47:48,414 AsyncObject#15 [REPO][SKIN_VERSION_REPO] Attempt #1; timeout: 45000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new3/skin/versions/
+2020-05-05 19:47:48,415 AsyncObject#14 [REPO][EXTRA_VERSION_REPO] Attempt #1; timeout: 45000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new3/
+2020-05-05 19:47:48,502 ExtendedThread#6 [REPO][EXTRA_VERSION_REPO] Success: Reached the repo in 129 ms.
+2020-05-05 19:47:48,511 AsyncObject#15 [REPO][SKIN_VERSION_REPO] Success: Reached the repo in 96 ms.
+2020-05-05 19:47:48,524 AsyncObject#15 [SkinVersionList] Got in 110 ms
+2020-05-05 19:47:48,608 AsyncObject#14 [REPO][EXTRA_VERSION_REPO] Success: Reached the repo in 193 ms.
+2020-05-05 19:47:48,634 AsyncObject#14 [ExtraVersionList] Got in 220 ms
+2020-05-05 19:47:51,229 AsyncObject#13 [REPO][OFFICIAL_VERSION_REPO] Success: Reached the repo in 2815 ms.
+2020-05-05 19:47:51,278 AsyncObject#13 [OfficialVersionList] Got in 2864 ms
+2020-05-05 19:47:51,279 ExtendedThread#4 [VersionManager] Versions has been refreshed (2898 ms)
+2020-05-05 19:47:51,298 ExtendedThread#6 [REPO][ADD_HOT_SERVERS_REPO] Attempt #1; timeout: 45000 ms; url: http://repo.tlauncher.org/update/lch/additional_hot_servers-1.0.json
+2020-05-05 19:47:51,300 ExtendedThread#7 [REPO][HOT_SERVERS_REPO] Attempt #1; timeout: 45000 ms; url: http://repo.tlauncher.org/update/lch/servers/hot_servers-1.0.json
+2020-05-05 19:47:51,322 Thread-12 run server on  37842
+2020-05-05 19:47:51,420 ExtendedThread#6 [REPO][ADD_HOT_SERVERS_REPO] Success: Reached the repo in 120 ms.
+2020-05-05 19:47:51,458 ExtendedThread#7 [REPO][HOT_SERVERS_REPO] Success: Reached the repo in 155 ms.
+2020-05-05 19:48:06,974 LoopedThread#8 [LoginForm] Login was OK. Trying to launch now.
+2020-05-05 19:48:07,238 LoopedThread#8 [Launcher] Running under TLauncher 2.69
+2020-05-05 19:48:07,242 LoopedThread#8 [Launcher] Collecting info...
+2020-05-05 19:48:07,248 LoopedThread#8 [TLauncherManager] before clearLibrary 
+2020-05-05 19:48:07,251 LoopedThread#8 [TLauncherManager] written:  []
+2020-05-05 19:48:07,252 LoopedThread#8 [TLauncherManager] after clearLibrary 
+2020-05-05 19:48:07,253 LoopedThread#8 [Launcher] Force update: false
+2020-05-05 19:48:07,254 LoopedThread#8 [Launcher] Selected version: latest-release
+2020-05-05 19:48:07,255 LoopedThread#8 [Launcher] Selected account: Account{displayName=null, userid=null, uuid=null, username=jpineros}
+2020-05-05 19:48:07,257 LoopedThread#8 [Launcher] Version sync info: VersionSyncInfo{id='1.15.2',
+local=CompleteVersion{id='1.15.2', time=Tue Apr 28 01:31:30 COT 2020, release=Fri Jan 17 05:03:52 COT 2020, type=release, class=net.minecraft.client.main.Main, minimumVersion=21, assets='1.15', source=LOCAL_VERSION_REPO, list=net.minecraft.launcher.updater.OfficialVersionList@2a2bd735, libraries=[Library{name='com.mojang:patchy:1.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='oshi-project:oshi-core:1.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.dev.jna:jna:4.4.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.dev.jna:platform:3.4.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.ibm.icu:icu4j-core-mojang:51.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:javabridge:1.0.22', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.sf.jopt-simple:jopt-simple:5.0.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-all:4.1.25.Final', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.google.guava:guava:21.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.commons:commons-lang3:3.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-io:commons-io:2.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-codec:commons-codec:1.10', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.jinput:jinput:2.0.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.jutils:jutils:1.0.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:brigadier:1.0.17', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:datafixerupper:2.0.24', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.google.code.gson:gson:2.8.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:authlib:1.5.25', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.commons:commons-compress:1.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.httpcomponents:httpclient:4.3.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-logging:commons-logging:1.1.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.httpcomponents:httpcore:4.3.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='it.unimi.dsi:fastutil:8.2.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.logging.log4j:log4j-api:2.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.logging.log4j:log4j-core:2.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-tinyfd:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-tinyfd:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-macos}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-macos}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-macos}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-macos}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-macos}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-macos}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-tinyfd:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-tinyfd:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-macos}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='com.mojang:text2speech:1.11.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:text2speech:1.11.3', rules=null, natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=net.minecraft.launcher.versions.ExtractRules@4b3dcc5b, packed='null'}, Library{name='ca.weblite:java-objc-bridge:1.0.0', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-osx}, extract=net.minecraft.launcher.versions.ExtractRules@2f42acff, packed='null'}, Library{name='ca.weblite:java-objc-bridge:1.0.0', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}]},
+remote=PartialVersion{id='1.15.2', time=Tue Apr 28 01:31:30 COT 2020, release=Fri Jan 17 05:03:52 COT 2020, type=release, source=OFFICIAL_VERSION_REPO, skinVersion=false, list=net.minecraft.launcher.updater.OfficialVersionList@2a2bd735}, isInstalled=true, hasRemote=true, isUpToDate=true}
+2020-05-05 19:48:07,347 LoopedThread#8 [Launcher] Java path: /Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin/java
+2020-05-05 19:48:07,353 LoopedThread#8 [Launcher] Checking conditions...
+2020-05-05 19:48:07,359 LoopedThread#8 [Launcher] Comparing assets...
+2020-05-05 19:48:07,360 LoopedThread#8 [AssetsManager] Checking resources...
+2020-05-05 19:48:07,360 LoopedThread#8 [AssetsManager] Reading indexes from file /Users/jpineros/Library/Application Support/minecraft/assets/indexes/1.15.json
+2020-05-05 19:48:07,373 LoopedThread#8 [AssetsManager] Fast comparing: true
+2020-05-05 19:48:07,397 LoopedThread#8 [Launcher] Delta time to compare assets: 37 ms.
+2020-05-05 19:48:07,398 LoopedThread#8 [TLauncherManager] add required libraries: 1.15.2
+2020-05-05 19:48:07,567 LoopedThread#8 [VersionManager] Required for version 1.15.2: []
+2020-05-05 19:48:07,569 LoopedThread#8 [Modpack]  got container
+2020-05-05 19:48:07,582 LoopedThread#8 [TLauncherManager] library will be replaced: com.mojang:authlib:1.5.25
+2020-05-05 19:48:07,583 LoopedThread#8 [TLauncherManager] library will be replaced: com.mojang:patchy:1.1
+2020-05-05 19:48:07,584 LoopedThread#8 [TLauncherManager] library will be added as required: net.minecraft:launchwrapper:1.12
+2020-05-05 19:48:07,585 LoopedThread#8 [TLauncherManager] library will be added as required: org.ow2.asm:asm-commons:6.2
+2020-05-05 19:48:07,586 LoopedThread#8 [TLauncherManager] library will be added as required: org.ow2.asm:asm:6.2
+2020-05-05 19:48:07,586 LoopedThread#8 [TLauncherManager] library will be added as required: org.ow2.asm:asm-tree:6.2
+2020-05-05 19:48:07,587 LoopedThread#8 [TLauncherManager] library will be added: org.tlauncher:tl_skin_cape_1.15.2:1.9
+2020-05-05 19:48:07,597 LoopedThread#8 [Launcher] Unpacking natives...
+2020-05-05 19:48:07,602 LoopedThread#8 [Launcher] Constructing process...
+2020-05-05 19:48:07,612 LoopedThread#8 [Launcher] Constructing classpath...
+2020-05-05 19:48:07,615 LoopedThread#8 [Launcher] Getting Minecraft arguments...
+2020-05-05 19:48:07,617 LoopedThread#8 [Launcher] Full command (characters are not escaped):
+/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin/java -Xdock:icon="/Users/jpineros/Library/Application Support/minecraft/assets/objects/99/991b421dfd401f115241601b2b373140a8d78572" -Xdock:name=Minecraft -Djava.net.preferIPv4Stack=true -Xmn128M -Xmx10922M -XstartOnFirstThread -Xss1M -Djava.library.path=/Users/jpineros/Library/Application Support/minecraft/versions/1.15.2/natives -Dminecraft.launcher.brand=minecraft-launcher -Dminecraft.launcher.version=2.0.1003 -cp /Users/jpineros/Library/Application Support/minecraft/libraries/org/tlauncher/tl_skin_cape_1.15.2/1.9/tl_skin_cape_1.15.2-1.9.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/org/ow2/asm/asm-tree/6.2/asm-tree-6.2.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/org/ow2/asm/asm/6.2/asm-6.2.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/org/ow2/asm/asm-commons/6.2/asm-commons-6.2.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/org/tlauncher/patchy/1.1/patchy-1.1.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/oshi-project/oshi-core/1.1/oshi-core-1.1.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/net/java/dev/jna/jna/4.4.0/jna-4.4.0.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/net/java/dev/jna/platform/3.4.0/platform-3.4.0.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/com/ibm/icu/icu4j-core-mojang/51.2/icu4j-core-mojang-51.2.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/com/mojang/javabridge/1.0.22/javabridge-1.0.22.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/io/netty/netty-all/4.1.25.Final/netty-all-4.1.25.Final.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/com/google/guava/guava/21.0/guava-21.0.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/org/apache/commons/commons-lang3/3.5/commons-lang3-3.5.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/commons-io/commons-io/2.5/commons-io-2.5.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/commons-codec/commons-codec/1.10/commons-codec-1.10.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/net/java/jinput/jinput/2.0.5/jinput-2.0.5.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/net/java/jutils/jutils/1.0.0/jutils-1.0.0.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/com/mojang/brigadier/1.0.17/brigadier-1.0.17.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/com/mojang/datafixerupper/2.0.24/datafixerupper-2.0.24.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/org/tlauncher/authlib/1.6.25/authlib-1.6.25.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/org/apache/httpcomponents/httpclient/4.3.3/httpclient-4.3.3.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/it/unimi/dsi/fastutil/8.2.1/fastutil-8.2.1.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/org/apache/logging/log4j/log4j-api/2.8.1/log4j-api-2.8.1.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/org/apache/logging/log4j/log4j-core/2.8.1/log4j-core-2.8.1.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/org/lwjgl/lwjgl/3.2.1/lwjgl-3.2.1.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/org/lwjgl/lwjgl-jemalloc/3.2.1/lwjgl-jemalloc-3.2.1.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/org/lwjgl/lwjgl-openal/3.2.1/lwjgl-openal-3.2.1.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/org/lwjgl/lwjgl-opengl/3.2.1/lwjgl-opengl-3.2.1.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/org/lwjgl/lwjgl-glfw/3.2.1/lwjgl-glfw-3.2.1.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/org/lwjgl/lwjgl-stb/3.2.1/lwjgl-stb-3.2.1.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/org/lwjgl/lwjgl-tinyfd/3.2.1/lwjgl-tinyfd-3.2.1.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/com/mojang/text2speech/1.11.3/text2speech-1.11.3.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/ca/weblite/java-objc-bridge/1.0.0/java-objc-bridge-1.0.0.jar:/Users/jpineros/Library/Application Support/minecraft/versions/1.15.2/1.15.2.jar -Dminecraft.applet.TargetDirectory=/Users/jpineros/Library/Application Support/minecraft -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M -Dfml.ignoreInvalidMinecraftCertificates=true -Dfml.ignorePatchDiscrepancies=true org.tlauncher.LaunchNew --username jpineros --version 1.15.2 --gameDir /Users/jpineros/Library/Application Support/minecraft --assetsDir /Users/jpineros/Library/Application Support/minecraft/assets --assetIndex 1.15 --uuid 00000000-0000-0000-0000-000000000000 --accessToken null --userType legacy --versionType release --width 925 --height 530 --tweakClass org.tlauncher.tweaker.Tweaker
+2020-05-05 19:48:07,664 LoopedThread#8 [Launcher] Launching Minecraft...
+2020-05-05 19:48:07,665 LoopedThread#8 I'm hiding!
+2020-05-05 19:48:07,669 LoopedThread#8 [TLauncherManager] mods after 
+2020-05-05 19:48:07,671 LoopedThread#8 [InnerMinecraftServersImpl]  search changers of the servers
+2020-05-05 19:48:07,675 LoopedThread#8 read servers from servers.dat []
+2020-05-05 19:48:07,677 LoopedThread#8 [InnerMinecraftServersImpl]  prepare inner servers
+2020-05-05 19:48:07,680 LoopedThread#8 save servers to servers.dat
+2020-05-05 19:48:07,683 LoopedThread#8 [Launcher] Starting Minecraft latest-release...
+2020-05-05 19:48:07,684 LoopedThread#8 [Launcher] Launching in: /Users/jpineros/Library/Application Support/minecraft
+2020-05-05 19:48:07,685 LoopedThread#8 Starting garbage collector: 195 / 273 MB
+2020-05-05 19:48:07,779 LoopedThread#8 Garbage collector completed: 48 / 260 MB
+2020-05-05 19:48:07,788 LoopedThread#8 [Launcher] Processing post-launch actions. Assist launch: true
+2020-05-05 19:48:08,654 Thread-14 ===============================================================================================
+2020-05-05 19:48:08,655 Thread-14 > [19:48:08] [main/INFO]: Loading tweak class name org.tlauncher.tweaker.Tweaker
+2020-05-05 19:48:08,656 Thread-14 > [19:48:08] [main/INFO]: Using primary tweak class name org.tlauncher.tweaker.Tweaker
+2020-05-05 19:48:08,657 Thread-14 > [19:48:08] [main/WARN]: Tweak class name org.tlauncher.tweaker.Tweaker has already been visited -- skipping
+2020-05-05 19:48:08,658 Thread-14 > [19:48:08] [main/INFO]: Calling tweak class org.tlauncher.tweaker.Tweaker
+2020-05-05 19:48:08,659 Thread-14 > Log Path: /Users/jpineros/Library/Application Support/minecraft/./tlLoader/Tweaker.log
+2020-05-05 19:48:08,660 Thread-14 > [main INFO] Using Tweaker
+2020-05-05 19:48:08,660 Thread-14 > [main INFO] Tweaker: acceptOptions
+2020-05-05 19:48:08,661 Thread-14 > [main INFO] Tweaker: injectIntoClassLoader
+2020-05-05 19:48:08,667 Thread-14 > [TLSkinCape] Current version is [:]
+2020-05-05 19:48:08,668 Thread-14 > [TLSkinCape] Current Minecraft version is 1.15.2.
+2020-05-05 19:48:08,668 Thread-14 > [main INFO] Hook method dpy#n()Lsm; loaded.
+2020-05-05 19:48:08,669 Thread-14 > [main INFO] Hook method dpy#m()Lsm; loaded.
+2020-05-05 19:48:08,670 Thread-14 > [main INFO] Hook method dpy#s()Ljava/lang/String; loaded.
+2020-05-05 19:48:08,670 Thread-14 > [main INFO] Hook method ayj#a(Layk;)Z loaded.
+2020-05-05 19:48:08,672 Thread-14 > [main INFO] Hook method dgf#render(IIF)V loaded.
+2020-05-05 19:48:08,672 Thread-14 > [main INFO] Loaded as a library.
+2020-05-05 19:48:08,673 Thread-14 > [main INFO] Tweaker: getLaunchArguments
+2020-05-05 19:48:08,679 Thread-14 > [19:48:08] [main/INFO]: Launching wrapped minecraft {org.tlauncher.MainNew}
+2020-05-05 19:48:08,992 Thread-14 > [Render thread INFO] [TLSkinCape] Method dgf.render(IIF)V successfully hooked.
+2020-05-05 19:48:09,006 Thread-14 > [Render thread INFO] [TLSkinCape] Method ayj.a(Layk;)Z successfully hooked.
+2020-05-05 19:48:09,022 Thread-14 > [Render thread INFO] [TLSkinCape] Method dpy.n()Lsm; successfully hooked.
+2020-05-05 19:48:09,023 Thread-14 > [Render thread INFO] [TLSkinCape] Method dpy.m()Lsm; successfully hooked.
+2020-05-05 19:48:09,024 Thread-14 > [Render thread INFO] [TLSkinCape] Method dpy.s()Ljava/lang/String; successfully hooked.
+2020-05-05 19:48:09,207 Thread-14 > [19:48:09] [main/INFO]: Setting user: jpineros
+2020-05-05 19:48:13,250 Thread-14 > [19:48:13] [main/INFO]: Backend library: LWJGL version 3.2.1 build 12
+2020-05-05 19:48:16,044 Thread-14 > [19:48:16] [main/INFO]: Reloading ResourceManager: Default
+2020-05-05 19:48:16,064 Thread-14 > [19:48:16] [main/INFO]: [STDOUT]: [Connector] trying to start...
+2020-05-05 19:48:16,065 Thread-14 > [19:48:16] [main/INFO]: [STDOUT]: [Connector] no server info
+2020-05-05 19:48:16,072 Thread-14 > [19:48:16] [main/INFO]: [STDOUT]: [Connector] end
+2020-05-05 19:48:17,103 Thread-14 > [19:48:17] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+2020-05-05 19:48:23,580 Thread-14 > [19:48:23] [main/INFO]: OpenAL initialized.
+2020-05-05 19:48:23,582 Thread-14 > [19:48:23] [main/INFO]: Sound engine started
+2020-05-05 19:48:23,785 Thread-14 > [19:48:23] [main/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/blocks.png-atlas
+2020-05-05 19:48:23,804 Thread-14 > [19:48:23] [main/INFO]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
+2020-05-05 19:48:23,805 Thread-14 > [19:48:23] [main/INFO]: Created: 1024x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+2020-05-05 19:48:23,806 Thread-14 > [19:48:23] [main/INFO]: Created: 1024x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+2020-05-05 19:48:23,809 Thread-14 > [19:48:23] [main/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+2020-05-05 19:48:23,811 Thread-14 > [19:48:23] [main/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+2020-05-05 19:48:23,812 Thread-14 > [19:48:23] [main/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+2020-05-05 19:48:24,234 Thread-14 > [19:48:24] [main/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+2020-05-05 19:48:24,236 Thread-14 > [19:48:24] [main/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+2020-05-05 19:48:24,238 Thread-14 > [19:48:24] [main/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+2020-05-05 19:48:49,745 Thread-14 > [19:48:49] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2020-05-05 19:48:49,748 Thread-14 > [19:48:49] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+2020-05-05 19:48:49,750 Thread-14 > [19:48:49] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+2020-05-05 19:48:49,752 Thread-14 > [19:48:49] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2020-05-05 19:48:49,754 Thread-14 > [19:48:49] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+2020-05-05 19:48:49,784 Thread-14 > [19:48:49] [Server thread/INFO]: Starting integrated minecraft server version 1.15.2
+2020-05-05 19:48:49,786 Thread-14 > [19:48:49] [Server thread/INFO]: Generating keypair
+2020-05-05 19:48:49,856 Thread-14 > [19:48:49] [Server thread/INFO]: Reloading ResourceManager: Default
+2020-05-05 19:48:50,144 Thread-14 > [19:48:50] [Server thread/INFO]: Loaded 6 recipes
+2020-05-05 19:48:50,333 Thread-14 > [19:48:50] [Server thread/INFO]: Loaded 825 advancements
+2020-05-05 19:48:50,597 Thread-14 > [19:48:50] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+2020-05-05 19:48:51,574 Thread-14 > [19:48:51] [main/INFO]: Preparing spawn area: 0%
+2020-05-05 19:48:51,575 Thread-14 > [19:48:51] [main/INFO]: Preparing spawn area: 0%
+2020-05-05 19:48:51,601 Thread-14 > [19:48:51] [main/INFO]: Preparing spawn area: 0%
+2020-05-05 19:48:52,271 Thread-14 > [19:48:52] [main/INFO]: Time elapsed: 1671 ms
+2020-05-05 19:48:52,366 Thread-14 > 2020-05-05 19:48:52.366 java[9434:422722] [JRSAppKitAWT markAppIsDaemon]: Process manager already initialized: can't fully enable headless mode.
+2020-05-05 19:48:52,571 Thread-14 > [19:48:52] [Server thread/INFO]: Changing view distance to 7, from 10
+2020-05-05 19:48:53,399 Thread-14 > [19:48:53] [Server thread/INFO]: jpineros[local:E:4e014e99] logged in with entity id 253 at (1.0546860785428418, 63.0, 31.288591028466755)
+2020-05-05 19:48:53,441 Thread-14 > [19:48:53] [Server thread/INFO]: jpineros joined the game
+2020-05-05 19:48:53,819 Thread-14 > [19:48:53] [Server thread/INFO]: Saving and pausing game...
+2020-05-05 19:48:53,847 Thread-14 > [19:48:53] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise attempt 2'/minecraft:the_nether
+2020-05-05 19:48:53,850 Thread-14 > [19:48:53] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise attempt 2'/minecraft:overworld
+2020-05-05 19:48:54,676 Thread-14 > [19:48:54] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise attempt 2'/minecraft:the_end
+2020-05-05 19:48:54,751 Thread-14 > [19:48:54] [main/INFO]: Loaded 199 advancements
+2020-05-05 19:48:56,602 Thread-14 > [19:48:56] [Server thread/INFO]: Saving and pausing game...
+2020-05-05 19:48:56,614 Thread-14 > [19:48:56] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise attempt 2'/minecraft:the_nether
+2020-05-05 19:48:56,617 Thread-14 > [19:48:56] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise attempt 2'/minecraft:overworld
+2020-05-05 19:48:56,713 Thread-14 > [19:48:56] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise attempt 2'/minecraft:the_end
+2020-05-05 19:51:42,096 Thread-14 > [19:51:42] [main/INFO]: textures 'jpineros' was added, skin: false,cape: false, max waiting: 0 ,during : 168070 
+2020-05-05 20:07:33,881 Thread-14 > [20:07:33] [Server thread/INFO]: jpineros has made the advancement [Not Today, Thank You]
+2020-05-05 20:07:33,899 Thread-14 > [20:07:33] [main/INFO]: [CHAT] jpineros has made the advancement [Not Today, Thank You]
+2020-05-05 20:07:33,930 Thread-14 > [20:07:33] [main/INFO]: Loaded 199 advancements
+2020-05-05 20:07:47,231 Thread-14 > [20:07:47] [Server thread/INFO]: jpineros has made the advancement [Monster Hunter]
+2020-05-05 20:07:47,247 Thread-14 > [20:07:47] [main/INFO]: [CHAT] jpineros has made the advancement [Monster Hunter]
+2020-05-05 20:07:47,279 Thread-14 > [20:07:47] [main/INFO]: Loaded 201 advancements
+2020-05-05 20:08:25,780 Thread-14 > [20:08:25] [main/INFO]: Loaded 202 advancements
+2020-05-05 20:20:35,601 Thread-14 > [20:20:35] [main/INFO]: Loaded 219 advancements
+2020-05-05 20:21:28,502 Thread-14 > [20:21:28] [main/INFO]: Loaded 222 advancements
+2020-05-05 20:23:27,001 Thread-14 > [20:23:27] [Server thread/INFO]: jpineros has made the advancement [We Need to Go Deeper]
+2020-05-05 20:23:27,018 Thread-14 > [20:23:27] [main/INFO]: [CHAT] jpineros has made the advancement [We Need to Go Deeper]
+2020-05-05 20:23:27,071 Thread-14 > [20:23:27] [main/INFO]: Loaded 232 advancements
+2020-05-05 20:23:51,656 Thread-14 > [20:23:51] [main/INFO]: Loaded 239 advancements
+2020-05-05 20:23:57,850 Thread-14 > [20:23:57] [main/INFO]: Loaded 240 advancements
+2020-05-05 20:24:59,596 Thread-14 > [20:24:59] [Server thread/INFO]: jpineros has made the advancement [A Terrible Fortress]
+2020-05-05 20:24:59,600 Thread-14 > [20:24:59] [main/INFO]: [CHAT] jpineros has made the advancement [A Terrible Fortress]
+2020-05-05 20:24:59,650 Thread-14 > [20:24:59] [main/INFO]: Loaded 242 advancements
+2020-05-05 20:27:12,448 Thread-14 > [20:27:12] [main/INFO]: Loaded 242 advancements
+2020-05-05 20:28:06,896 Thread-14 > [20:28:06] [Server thread/INFO]: Saving and pausing game...
+2020-05-05 20:28:06,911 Thread-14 > [20:28:06] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise attempt 2'/minecraft:the_nether
+2020-05-05 20:28:07,079 Thread-14 > [20:28:07] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise attempt 2'/minecraft:overworld
+2020-05-05 20:28:07,146 Thread-14 > [20:28:07] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise attempt 2'/minecraft:the_end
+2020-05-05 20:28:15,863 Thread-14 > [20:28:15] [main/INFO]: Loaded 242 advancements
+2020-05-05 20:28:28,353 Thread-14 > [20:28:28] [Server thread/INFO]: jpineros has made the advancement [Into Fire]
+2020-05-05 20:28:28,365 Thread-14 > [20:28:28] [main/INFO]: [CHAT] jpineros has made the advancement [Into Fire]
+2020-05-05 20:28:28,414 Thread-14 > [20:28:28] [main/INFO]: Loaded 245 advancements
+2020-05-05 20:28:49,781 Thread-14 > [20:28:49] [main/WARN]: Received passengers for unknown entity
+2020-05-05 20:29:01,263 Thread-14 > [20:29:01] [main/INFO]: Loaded 245 advancements
+2020-05-05 20:32:48,051 Thread-14 > [20:32:48] [Server thread/INFO]: Saving and pausing game...
+2020-05-05 20:32:48,067 Thread-14 > [20:32:48] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise attempt 2'/minecraft:the_nether
+2020-05-05 20:32:48,320 Thread-14 > [20:32:48] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise attempt 2'/minecraft:overworld
+2020-05-05 20:32:48,448 Thread-14 > [20:32:48] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise attempt 2'/minecraft:the_end
+2020-05-05 20:33:12,961 Thread-14 > [20:33:12] [main/INFO]: Loaded 254 advancements
+2020-05-05 20:34:46,458 Thread-14 > [20:34:46] [main/INFO]: Loaded 254 advancements
+2020-05-05 20:35:09,854 Thread-14 > [20:35:09] [Server thread/INFO]: Saving and pausing game...
+2020-05-05 20:35:09,859 Thread-14 > [20:35:09] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise attempt 2'/minecraft:the_nether
+2020-05-05 20:35:09,860 Thread-14 > [20:35:09] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise attempt 2'/minecraft:overworld
+2020-05-05 20:35:09,931 Thread-14 > [20:35:09] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise attempt 2'/minecraft:the_end
+2020-05-05 20:54:46,277 Thread-14 > [20:54:46] [Server thread/INFO]: Saving and pausing game...
+2020-05-05 20:54:46,282 Thread-14 > [20:54:46] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise attempt 2'/minecraft:the_nether
+2020-05-05 20:54:46,284 Thread-14 > [20:54:46] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise attempt 2'/minecraft:overworld
+2020-05-05 20:54:46,360 Thread-14 > [20:54:46] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise attempt 2'/minecraft:the_end
+2020-05-05 21:10:33,351 Thread-14 > [21:10:33] [main/INFO]: Loaded 257 advancements
+2020-05-05 21:17:04,358 Thread-14 > [21:17:04] [Server thread/INFO]: Saving and pausing game...
+2020-05-05 21:17:04,370 Thread-14 > [21:17:04] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise attempt 2'/minecraft:the_nether
+2020-05-05 21:17:04,569 Thread-14 > [21:17:04] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise attempt 2'/minecraft:overworld
+2020-05-05 21:17:04,695 Thread-14 > [21:17:04] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise attempt 2'/minecraft:the_end
+2020-05-05 21:18:06,274 Thread-14 > [21:18:06] [main/INFO]: Loaded 257 advancements
+2020-05-05 21:18:55,275 Thread-14 > [21:18:55] [main/INFO]: Loaded 257 advancements
+2020-05-05 21:19:46,174 Thread-14 > [21:19:46] [main/INFO]: Loaded 257 advancements
+2020-05-05 21:20:42,972 Thread-14 > [21:20:42] [main/INFO]: Loaded 259 advancements
+2020-05-05 21:20:59,972 Thread-14 > [21:20:59] [main/INFO]: Loaded 261 advancements
+2020-05-05 21:29:07,283 Thread-14 > [21:29:07] [main/INFO]: Loaded 261 advancements
+2020-05-05 21:31:13,752 Thread-14 > [21:31:13] [Server thread/INFO]: jpineros has made the advancement [What a Deal!]
+2020-05-05 21:31:13,762 Thread-14 > [21:31:13] [main/INFO]: [CHAT] jpineros has made the advancement [What a Deal!]
+2020-05-05 21:31:13,785 Thread-14 > [21:31:13] [main/INFO]: Loaded 261 advancements
+2020-05-05 21:31:23,298 Thread-14 > [21:31:23] [main/INFO]: Loaded 262 advancements
+2020-05-05 21:31:39,220 Thread-14 > [21:31:39] [Server thread/INFO]: Saving and pausing game...
+2020-05-05 21:31:39,226 Thread-14 > [21:31:39] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise attempt 2'/minecraft:the_nether
+2020-05-05 21:31:39,229 Thread-14 > [21:31:39] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise attempt 2'/minecraft:overworld
+2020-05-05 21:31:39,525 Thread-14 > [21:31:39] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise attempt 2'/minecraft:the_end
+2020-05-05 21:31:58,450 Thread-14 > [21:31:58] [main/INFO]: Loaded 269 advancements
+2020-05-05 21:32:28,082 Thread-14 > [21:32:28] [main/INFO]: Loaded 271 advancements
+2020-05-05 21:35:58,325 Thread-14 > [21:35:58] [Server thread/INFO]: Saving and pausing game...
+2020-05-05 21:35:58,331 Thread-14 > [21:35:58] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise attempt 2'/minecraft:the_nether
+2020-05-05 21:35:58,333 Thread-14 > [21:35:58] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise attempt 2'/minecraft:overworld
+2020-05-05 21:35:58,607 Thread-14 > [21:35:58] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise attempt 2'/minecraft:the_end
+2020-05-05 21:37:55,510 Thread-14 > [21:37:55] [main/INFO]: [CHAT] Respawn point set
+2020-05-05 21:48:10,633 Thread-14 > [21:48:10] [main/WARN]: Received passengers for unknown entity
+2020-05-05 21:48:40,586 Thread-14 > [21:48:40] [main/WARN]: Received passengers for unknown entity
+2020-05-05 21:50:33,367 Thread-14 > [21:50:33] [main/INFO]: Loaded 272 advancements
+2020-05-05 21:52:38,416 Thread-14 > [21:52:38] [main/INFO]: Loaded 279 advancements
+2020-05-05 21:53:25,914 Thread-14 > [21:53:25] [main/INFO]: Loaded 280 advancements
+2020-05-05 21:53:48,413 Thread-14 > [21:53:48] [main/INFO]: Loaded 283 advancements
+2020-05-05 21:54:56,215 Thread-14 > [21:54:56] [main/INFO]: Loaded 296 advancements
+2020-05-05 21:57:49,751 Thread-14 > [21:57:49] [Server thread/INFO]: Saving and pausing game...
+2020-05-05 21:57:49,763 Thread-14 > [21:57:49] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise attempt 2'/minecraft:the_nether
+2020-05-05 21:57:49,765 Thread-14 > [21:57:49] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise attempt 2'/minecraft:overworld
+2020-05-05 21:57:49,947 Thread-14 > [21:57:49] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise attempt 2'/minecraft:the_end
+2020-05-05 21:58:36,910 Thread-14 > [21:58:36] [main/INFO]: Loaded 297 advancements
+2020-05-05 22:01:01,475 Thread-14 > [22:01:01] [main/WARN]: Unable to play empty soundEvent: minecraft:entity.salmon.ambient
+2020-05-05 22:02:38,024 Thread-14 > [22:02:38] [main/INFO]: Loaded 297 advancements
+2020-05-05 22:05:00,673 Thread-14 > [22:05:00] [main/INFO]: Loaded 298 advancements
+2020-05-05 22:05:56,871 Thread-14 > [22:05:56] [main/WARN]: Received passengers for unknown entity
+2020-05-05 22:07:33,436 Thread-14 > [22:07:33] [main/INFO]: Loaded 332 advancements
+2020-05-05 22:13:21,082 Thread-14 > [22:13:21] [main/INFO]: Loaded 332 advancements
+2020-05-05 22:21:32,593 Thread-14 > [22:21:32] [main/INFO]: Loaded 332 advancements
+2020-05-05 22:26:24,035 Thread-14 > [22:26:24] [Server thread/INFO]: Saving and pausing game...
+2020-05-05 22:26:24,046 Thread-14 > [22:26:24] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise attempt 2'/minecraft:the_nether
+2020-05-05 22:26:24,048 Thread-14 > [22:26:24] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise attempt 2'/minecraft:overworld
+2020-05-05 22:26:24,181 Thread-14 > [22:26:24] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise attempt 2'/minecraft:the_end
+2020-05-05 22:27:14,326 Thread-14 > [22:27:14] [main/INFO]: Reloading ResourceManager: Default, Programmer Art
+2020-05-05 22:27:15,713 Thread-14 > [22:27:15] [main/INFO]: OpenAL initialized.
+2020-05-05 22:27:15,714 Thread-14 > [22:27:15] [main/INFO]: Sound engine started
+2020-05-05 22:27:15,966 Thread-14 > [22:27:15] [main/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/blocks.png-atlas
+2020-05-05 22:27:15,971 Thread-14 > [22:27:15] [main/INFO]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
+2020-05-05 22:27:15,973 Thread-14 > [22:27:15] [main/INFO]: Created: 1024x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+2020-05-05 22:27:15,974 Thread-14 > [22:27:15] [main/INFO]: Created: 1024x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+2020-05-05 22:27:15,976 Thread-14 > [22:27:15] [main/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+2020-05-05 22:27:15,978 Thread-14 > [22:27:15] [main/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+2020-05-05 22:27:15,979 Thread-14 > [22:27:15] [main/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+2020-05-05 22:27:16,347 Thread-14 > [22:27:16] [main/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+2020-05-05 22:27:16,348 Thread-14 > [22:27:16] [main/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+2020-05-05 22:27:16,351 Thread-14 > [22:27:16] [main/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+2020-05-05 22:31:00,890 Thread-14 > [22:31:00] [Server thread/INFO]: Saving and pausing game...
+2020-05-05 22:31:00,896 Thread-14 > [22:31:00] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise attempt 2'/minecraft:the_nether
+2020-05-05 22:31:01,028 Thread-14 > [22:31:01] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise attempt 2'/minecraft:overworld
+2020-05-05 22:31:01,113 Thread-14 > [22:31:01] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise attempt 2'/minecraft:the_end
+2020-05-05 22:35:48,646 Thread-14 > [22:35:48] [Server thread/INFO]: Saving and pausing game...
+2020-05-05 22:35:48,661 Thread-14 > [22:35:48] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise attempt 2'/minecraft:the_nether
+2020-05-05 22:35:48,663 Thread-14 > [22:35:48] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise attempt 2'/minecraft:overworld
+2020-05-05 22:35:48,953 Thread-14 > [22:35:48] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise attempt 2'/minecraft:the_end
+2020-05-05 22:45:58,866 Thread-14 > [22:45:58] [Server thread/INFO]: jpineros was shot by Skeleton
+2020-05-05 22:45:58,876 Thread-14 > [22:45:58] [main/INFO]: [CHAT] jpineros was shot by Skeleton
+2020-05-05 22:46:19,722 Thread-14 > [22:46:19] [main/INFO]: Loaded 332 advancements
+2020-05-05 22:46:23,165 Thread-14 > [22:46:23] [Server thread/INFO]: jpineros was shot by Skeleton
+2020-05-05 22:46:23,173 Thread-14 > [22:46:23] [main/INFO]: [CHAT] jpineros was shot by Skeleton
+2020-05-05 22:58:56,680 Thread-14 > [22:58:56] [main/INFO]: [CHAT] Respawn point set
+2020-05-05 23:00:47,184 Thread-14 > [23:00:47] [main/WARN]: Unable to play empty soundEvent: minecraft:entity.salmon.ambient
+2020-05-05 23:01:38,726 Thread-14 > [23:01:38] [Server thread/INFO]: Saving and pausing game...
+2020-05-05 23:01:38,736 Thread-14 > [23:01:38] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise attempt 2'/minecraft:the_nether
+2020-05-05 23:01:38,738 Thread-14 > [23:01:38] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise attempt 2'/minecraft:overworld
+2020-05-05 23:01:38,840 Thread-14 > [23:01:38] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise attempt 2'/minecraft:the_end
+2020-05-05 23:02:26,739 Thread-14 > [23:02:26] [main/INFO]: Loaded 332 advancements
+2020-05-05 23:02:32,677 Thread-14 > [23:02:32] [Server thread/INFO]: Saving and pausing game...
+2020-05-05 23:02:32,687 Thread-14 > [23:02:32] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise attempt 2'/minecraft:the_nether
+2020-05-05 23:02:32,689 Thread-14 > [23:02:32] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise attempt 2'/minecraft:overworld
+2020-05-05 23:02:32,805 Thread-14 > [23:02:32] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise attempt 2'/minecraft:the_end
+2020-05-05 23:02:54,277 Thread-14 > [23:02:54] [Server thread/INFO]: Saving and pausing game...
+2020-05-05 23:02:54,285 Thread-14 > [23:02:54] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise attempt 2'/minecraft:the_nether
+2020-05-05 23:02:54,286 Thread-14 > [23:02:54] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise attempt 2'/minecraft:overworld
+2020-05-05 23:02:54,383 Thread-14 > [23:02:54] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise attempt 2'/minecraft:the_end
+2020-05-05 23:09:51,020 Thread-14 > [23:09:51] [main/INFO]: [CHAT] Respawn point set
+2020-05-05 23:09:58,336 Thread-14 > [23:09:58] [Server thread/INFO]: Saving and pausing game...
+2020-05-05 23:09:58,349 Thread-14 > [23:09:58] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise attempt 2'/minecraft:the_nether
+2020-05-05 23:09:58,352 Thread-14 > [23:09:58] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise attempt 2'/minecraft:overworld
+2020-05-05 23:09:58,593 Thread-14 > [23:09:58] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise attempt 2'/minecraft:the_end
+2020-05-05 23:20:15,611 Thread-14 > [23:20:15] [main/INFO]: [CHAT] Respawn point set
+2020-05-05 23:22:57,001 Thread-14 > [23:22:57] [Server thread/INFO]: Saving and pausing game...
+2020-05-05 23:22:57,015 Thread-14 > [23:22:57] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise attempt 2'/minecraft:the_nether
+2020-05-05 23:22:57,017 Thread-14 > [23:22:57] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise attempt 2'/minecraft:overworld
+2020-05-05 23:22:57,245 Thread-14 > [23:22:57] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise attempt 2'/minecraft:the_end
+2020-05-05 23:23:00,701 Thread-14 > [23:23:00] [Server thread/INFO]: Saving and pausing game...
+2020-05-05 23:23:00,707 Thread-14 > [23:23:00] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise attempt 2'/minecraft:the_nether
+2020-05-05 23:23:00,709 Thread-14 > [23:23:00] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise attempt 2'/minecraft:overworld
+2020-05-05 23:23:00,812 Thread-14 > [23:23:00] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise attempt 2'/minecraft:the_end
+2020-05-05 23:23:18,697 Thread-14 > [23:23:18] [main/INFO]: Reloading ResourceManager: Programmer Art, Default
+2020-05-05 23:23:19,783 Thread-14 > [23:23:19] [main/INFO]: OpenAL initialized.
+2020-05-05 23:23:19,784 Thread-14 > [23:23:19] [main/INFO]: Sound engine started
+2020-05-05 23:23:19,985 Thread-14 > [23:23:19] [main/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/blocks.png-atlas
+2020-05-05 23:23:19,990 Thread-14 > [23:23:19] [main/INFO]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
+2020-05-05 23:23:19,992 Thread-14 > [23:23:19] [main/INFO]: Created: 1024x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+2020-05-05 23:23:19,993 Thread-14 > [23:23:19] [main/INFO]: Created: 1024x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+2020-05-05 23:23:19,994 Thread-14 > [23:23:19] [main/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+2020-05-05 23:23:19,995 Thread-14 > [23:23:19] [main/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+2020-05-05 23:23:19,997 Thread-14 > [23:23:19] [main/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+2020-05-05 23:23:20,265 Thread-14 > [23:23:20] [main/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+2020-05-05 23:23:20,267 Thread-14 > [23:23:20] [main/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+2020-05-05 23:23:20,269 Thread-14 > [23:23:20] [main/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+2020-05-05 23:25:18,323 Thread-14 > [23:25:18] [main/INFO]: Loaded 332 advancements
+2020-05-05 23:28:42,571 Thread-14 > [23:28:42] [main/INFO]: Loaded 334 advancements
+2020-05-05 23:29:45,759 Thread-14 > [23:29:45] [Server thread/INFO]: Saving and pausing game...
+2020-05-05 23:29:45,771 Thread-14 > [23:29:45] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise attempt 2'/minecraft:the_nether
+2020-05-05 23:29:45,773 Thread-14 > [23:29:45] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise attempt 2'/minecraft:overworld
+2020-05-05 23:29:45,948 Thread-14 > [23:29:45] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise attempt 2'/minecraft:the_end
+2020-05-05 23:29:46,567 Thread-14 > [23:29:46] [Server thread/INFO]: jpineros lost connection: Disconnected
+2020-05-05 23:29:46,569 Thread-14 > [23:29:46] [Server thread/INFO]: jpineros left the game
+2020-05-05 23:29:46,574 Thread-14 > [23:29:46] [Server thread/INFO]: Stopping singleplayer server as player logged out
+2020-05-05 23:29:46,609 Thread-14 > [23:29:46] [Server thread/INFO]: Stopping server
+2020-05-05 23:29:46,610 Thread-14 > [23:29:46] [Server thread/INFO]: Saving players
+2020-05-05 23:29:46,611 Thread-14 > [23:29:46] [Server thread/INFO]: Saving worlds
+2020-05-05 23:29:46,612 Thread-14 > [23:29:46] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise attempt 2'/minecraft:the_nether
+2020-05-05 23:29:46,616 Thread-14 > [23:29:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+2020-05-05 23:29:46,618 Thread-14 > [23:29:46] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise attempt 2'/minecraft:overworld
+2020-05-05 23:29:46,763 Thread-14 > [23:29:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (Jhean Paradise attempt 2): All chunks are saved
+2020-05-05 23:29:46,765 Thread-14 > [23:29:46] [Server thread/INFO]: Saving chunks for level 'Jhean Paradise attempt 2'/minecraft:the_end
+2020-05-05 23:29:46,767 Thread-14 > [23:29:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+2020-05-05 23:29:46,768 Thread-14 > [23:29:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+2020-05-05 23:29:46,777 Thread-14 > [23:29:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (Jhean Paradise attempt 2): All chunks are saved
+2020-05-05 23:29:46,782 Thread-14 > [23:29:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+2020-05-05 23:29:50,510 Thread-14 > [23:29:50] [main/INFO]: Stopping!
+2020-05-05 23:29:51,613 Thread-14 Here I am!
+2020-05-05 23:29:51,690 Thread-14 [VersionManager] Refreshing versions locally...
+2020-05-05 23:29:51,716 Thread-14 [VersionManager] Versions has been refreshed (25 ms)
+2020-05-05 23:29:51,735 Thread-14 [Launcher] Minecraft closed with exit code: 0
+2020-05-05 23:29:51,736 LoopedThread#8 [Launcher] Launcher exited.
+2020-05-06 07:29:24,991 LoopedThread#8 [LoginForm] Login was OK. Trying to launch now.
+2020-05-06 07:29:25,222 LoopedThread#8 [Launcher] Running under TLauncher 2.69
+2020-05-06 07:29:25,224 LoopedThread#8 [Launcher] Collecting info...
+2020-05-06 07:29:25,230 LoopedThread#8 [TLauncherManager] before clearLibrary 
+2020-05-06 07:29:25,239 LoopedThread#8 [TLauncherManager] written:  []
+2020-05-06 07:29:25,240 LoopedThread#8 [TLauncherManager] after clearLibrary 
+2020-05-06 07:29:25,240 LoopedThread#8 [Launcher] Force update: false
+2020-05-06 07:29:25,241 LoopedThread#8 [Launcher] Selected version: latest-release
+2020-05-06 07:29:25,241 LoopedThread#8 [Launcher] Selected account: Account{displayName=null, userid=null, uuid=null, username=jpineros}
+2020-05-06 07:29:25,243 LoopedThread#8 [Launcher] Version sync info: VersionSyncInfo{id='1.15.2',
+local=CompleteVersion{id='1.15.2', time=Tue Apr 28 01:31:30 COT 2020, release=Fri Jan 17 05:03:52 COT 2020, type=release, class=net.minecraft.client.main.Main, minimumVersion=21, assets='1.15', source=LOCAL_VERSION_REPO, list=net.minecraft.launcher.updater.OfficialVersionList@2a2bd735, libraries=[Library{name='com.mojang:patchy:1.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='oshi-project:oshi-core:1.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.dev.jna:jna:4.4.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.dev.jna:platform:3.4.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.ibm.icu:icu4j-core-mojang:51.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:javabridge:1.0.22', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.sf.jopt-simple:jopt-simple:5.0.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-all:4.1.25.Final', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.google.guava:guava:21.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.commons:commons-lang3:3.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-io:commons-io:2.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-codec:commons-codec:1.10', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.jinput:jinput:2.0.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.jutils:jutils:1.0.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:brigadier:1.0.17', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:datafixerupper:2.0.24', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.google.code.gson:gson:2.8.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:authlib:1.5.25', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.commons:commons-compress:1.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.httpcomponents:httpclient:4.3.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-logging:commons-logging:1.1.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.httpcomponents:httpcore:4.3.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='it.unimi.dsi:fastutil:8.2.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.logging.log4j:log4j-api:2.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.logging.log4j:log4j-core:2.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-tinyfd:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-tinyfd:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-macos}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-macos}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-macos}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-macos}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-macos}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-macos}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-tinyfd:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-tinyfd:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-macos}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='com.mojang:text2speech:1.11.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:text2speech:1.11.3', rules=null, natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=net.minecraft.launcher.versions.ExtractRules@768e4d28, packed='null'}, Library{name='ca.weblite:java-objc-bridge:1.0.0', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-osx}, extract=net.minecraft.launcher.versions.ExtractRules@72b1d721, packed='null'}, Library{name='ca.weblite:java-objc-bridge:1.0.0', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}]},
+remote=PartialVersion{id='1.15.2', time=Tue Apr 28 01:31:30 COT 2020, release=Fri Jan 17 05:03:52 COT 2020, type=release, source=OFFICIAL_VERSION_REPO, skinVersion=false, list=net.minecraft.launcher.updater.OfficialVersionList@2a2bd735}, isInstalled=true, hasRemote=true, isUpToDate=true}
+2020-05-06 07:29:25,328 LoopedThread#8 [Launcher] Java path: /Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin/java
+2020-05-06 07:29:25,331 LoopedThread#8 [Launcher] Checking conditions...
+2020-05-06 07:29:25,332 LoopedThread#8 [Launcher] Comparing assets...
+2020-05-06 07:29:25,332 LoopedThread#8 [AssetsManager] Checking resources...
+2020-05-06 07:29:25,333 LoopedThread#8 [AssetsManager] Reading indexes from file /Users/jpineros/Library/Application Support/minecraft/assets/indexes/1.15.json
+2020-05-06 07:29:25,365 LoopedThread#8 [AssetsManager] Fast comparing: true
+2020-05-06 07:29:25,484 LoopedThread#8 [Launcher] Delta time to compare assets: 151 ms.
+2020-05-06 07:29:25,484 LoopedThread#8 [TLauncherManager] add required libraries: 1.15.2
+2020-05-06 07:29:26,089 LoopedThread#8 [VersionManager] Required for version 1.15.2: []
+2020-05-06 07:29:26,090 LoopedThread#8 [Modpack]  got container
+2020-05-06 07:29:26,096 LoopedThread#8 [TLauncherManager] library will be replaced: com.mojang:authlib:1.5.25
+2020-05-06 07:29:26,097 LoopedThread#8 [TLauncherManager] library will be replaced: com.mojang:patchy:1.1
+2020-05-06 07:29:26,098 LoopedThread#8 [TLauncherManager] library will be added as required: net.minecraft:launchwrapper:1.12
+2020-05-06 07:29:26,099 LoopedThread#8 [TLauncherManager] library will be added as required: org.ow2.asm:asm-commons:6.2
+2020-05-06 07:29:26,100 LoopedThread#8 [TLauncherManager] library will be added as required: org.ow2.asm:asm:6.2
+2020-05-06 07:29:26,100 LoopedThread#8 [TLauncherManager] library will be added as required: org.ow2.asm:asm-tree:6.2
+2020-05-06 07:29:26,101 LoopedThread#8 [TLauncherManager] library will be added: org.tlauncher:tl_skin_cape_1.15.2:1.9
+2020-05-06 07:29:26,110 LoopedThread#8 [Launcher] Unpacking natives...
+2020-05-06 07:29:26,114 LoopedThread#8 [Launcher] Constructing process...
+2020-05-06 07:29:26,122 LoopedThread#8 [Launcher] Constructing classpath...
+2020-05-06 07:29:26,124 LoopedThread#8 [Launcher] Getting Minecraft arguments...
+2020-05-06 07:29:26,126 LoopedThread#8 [Launcher] Full command (characters are not escaped):
+/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin/java -Xdock:icon="/Users/jpineros/Library/Application Support/minecraft/assets/objects/99/991b421dfd401f115241601b2b373140a8d78572" -Xdock:name=Minecraft -Djava.net.preferIPv4Stack=true -Xmn128M -Xmx10922M -XstartOnFirstThread -Xss1M -Djava.library.path=/Users/jpineros/Library/Application Support/minecraft/versions/1.15.2/natives -Dminecraft.launcher.brand=minecraft-launcher -Dminecraft.launcher.version=2.0.1003 -cp /Users/jpineros/Library/Application Support/minecraft/libraries/org/tlauncher/tl_skin_cape_1.15.2/1.9/tl_skin_cape_1.15.2-1.9.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/org/ow2/asm/asm-tree/6.2/asm-tree-6.2.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/org/ow2/asm/asm/6.2/asm-6.2.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/org/ow2/asm/asm-commons/6.2/asm-commons-6.2.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/org/tlauncher/patchy/1.1/patchy-1.1.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/oshi-project/oshi-core/1.1/oshi-core-1.1.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/net/java/dev/jna/jna/4.4.0/jna-4.4.0.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/net/java/dev/jna/platform/3.4.0/platform-3.4.0.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/com/ibm/icu/icu4j-core-mojang/51.2/icu4j-core-mojang-51.2.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/com/mojang/javabridge/1.0.22/javabridge-1.0.22.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/io/netty/netty-all/4.1.25.Final/netty-all-4.1.25.Final.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/com/google/guava/guava/21.0/guava-21.0.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/org/apache/commons/commons-lang3/3.5/commons-lang3-3.5.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/commons-io/commons-io/2.5/commons-io-2.5.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/commons-codec/commons-codec/1.10/commons-codec-1.10.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/net/java/jinput/jinput/2.0.5/jinput-2.0.5.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/net/java/jutils/jutils/1.0.0/jutils-1.0.0.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/com/mojang/brigadier/1.0.17/brigadier-1.0.17.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/com/mojang/datafixerupper/2.0.24/datafixerupper-2.0.24.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/org/tlauncher/authlib/1.6.25/authlib-1.6.25.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/org/apache/httpcomponents/httpclient/4.3.3/httpclient-4.3.3.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/it/unimi/dsi/fastutil/8.2.1/fastutil-8.2.1.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/org/apache/logging/log4j/log4j-api/2.8.1/log4j-api-2.8.1.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/org/apache/logging/log4j/log4j-core/2.8.1/log4j-core-2.8.1.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/org/lwjgl/lwjgl/3.2.1/lwjgl-3.2.1.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/org/lwjgl/lwjgl-jemalloc/3.2.1/lwjgl-jemalloc-3.2.1.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/org/lwjgl/lwjgl-openal/3.2.1/lwjgl-openal-3.2.1.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/org/lwjgl/lwjgl-opengl/3.2.1/lwjgl-opengl-3.2.1.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/org/lwjgl/lwjgl-glfw/3.2.1/lwjgl-glfw-3.2.1.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/org/lwjgl/lwjgl-stb/3.2.1/lwjgl-stb-3.2.1.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/org/lwjgl/lwjgl-tinyfd/3.2.1/lwjgl-tinyfd-3.2.1.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/com/mojang/text2speech/1.11.3/text2speech-1.11.3.jar:/Users/jpineros/Library/Application Support/minecraft/libraries/ca/weblite/java-objc-bridge/1.0.0/java-objc-bridge-1.0.0.jar:/Users/jpineros/Library/Application Support/minecraft/versions/1.15.2/1.15.2.jar -Dminecraft.applet.TargetDirectory=/Users/jpineros/Library/Application Support/minecraft -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M -Dfml.ignoreInvalidMinecraftCertificates=true -Dfml.ignorePatchDiscrepancies=true org.tlauncher.LaunchNew --username jpineros --version 1.15.2 --gameDir /Users/jpineros/Library/Application Support/minecraft --assetsDir /Users/jpineros/Library/Application Support/minecraft/assets --assetIndex 1.15 --uuid 00000000-0000-0000-0000-000000000000 --accessToken null --userType legacy --versionType release --width 925 --height 530 --tweakClass org.tlauncher.tweaker.Tweaker
+2020-05-06 07:29:26,170 LoopedThread#8 [Launcher] Launching Minecraft...
+2020-05-06 07:29:26,171 LoopedThread#8 I'm hiding!
+2020-05-06 07:29:26,173 LoopedThread#8 [TLauncherManager] mods after 
+2020-05-06 07:29:26,178 LoopedThread#8 [InnerMinecraftServersImpl]  search changers of the servers
+2020-05-06 07:29:26,186 LoopedThread#8 read servers from servers.dat []
+2020-05-06 07:29:26,186 LoopedThread#8 [InnerMinecraftServersImpl]  prepare inner servers
+2020-05-06 07:29:26,187 LoopedThread#8 save servers to servers.dat
+2020-05-06 07:29:26,189 LoopedThread#8 [Launcher] Starting Minecraft latest-release...
+2020-05-06 07:29:26,190 LoopedThread#8 [Launcher] Launching in: /Users/jpineros/Library/Application Support/minecraft
+2020-05-06 07:29:26,191 LoopedThread#8 Starting garbage collector: 117 / 196 MB
+2020-05-06 07:29:26,331 LoopedThread#8 Garbage collector completed: 42 / 197 MB
+2020-05-06 07:29:26,347 LoopedThread#8 [Launcher] Processing post-launch actions. Assist launch: true
+2020-05-06 07:29:27,470 Thread-15 ===============================================================================================
+2020-05-06 07:29:27,472 Thread-15 > [07:29:27] [main/INFO]: Loading tweak class name org.tlauncher.tweaker.Tweaker
+2020-05-06 07:29:27,473 Thread-15 > [07:29:27] [main/INFO]: Using primary tweak class name org.tlauncher.tweaker.Tweaker
+2020-05-06 07:29:27,474 Thread-15 > [07:29:27] [main/WARN]: Tweak class name org.tlauncher.tweaker.Tweaker has already been visited -- skipping
+2020-05-06 07:29:27,476 Thread-15 > [07:29:27] [main/INFO]: Calling tweak class org.tlauncher.tweaker.Tweaker
+2020-05-06 07:29:27,477 Thread-15 > Log Path: /Users/jpineros/Library/Application Support/minecraft/./tlLoader/Tweaker.log
+2020-05-06 07:29:27,477 Thread-15 > [main INFO] Using Tweaker
+2020-05-06 07:29:27,478 Thread-15 > [main INFO] Tweaker: acceptOptions
+2020-05-06 07:29:27,479 Thread-15 > [main INFO] Tweaker: injectIntoClassLoader
+2020-05-06 07:29:27,484 Thread-15 > [TLSkinCape] Current version is [:]
+2020-05-06 07:29:27,484 Thread-15 > [TLSkinCape] Current Minecraft version is 1.15.2.
+2020-05-06 07:29:27,485 Thread-15 > [main INFO] Hook method dpy#n()Lsm; loaded.
+2020-05-06 07:29:27,486 Thread-15 > [main INFO] Hook method dpy#m()Lsm; loaded.
+2020-05-06 07:29:27,487 Thread-15 > [main INFO] Hook method dpy#s()Ljava/lang/String; loaded.
+2020-05-06 07:29:27,488 Thread-15 > [main INFO] Hook method ayj#a(Layk;)Z loaded.
+2020-05-06 07:29:27,488 Thread-15 > [main INFO] Hook method dgf#render(IIF)V loaded.
+2020-05-06 07:29:27,489 Thread-15 > [main INFO] Loaded as a library.
+2020-05-06 07:29:27,489 Thread-15 > [main INFO] Tweaker: getLaunchArguments
+2020-05-06 07:29:27,495 Thread-15 > [07:29:27] [main/INFO]: Launching wrapped minecraft {org.tlauncher.MainNew}
+2020-05-06 07:29:27,789 Thread-15 > [Render thread INFO] [TLSkinCape] Method dgf.render(IIF)V successfully hooked.
+2020-05-06 07:29:27,804 Thread-15 > [Render thread INFO] [TLSkinCape] Method ayj.a(Layk;)Z successfully hooked.
+2020-05-06 07:29:27,849 Thread-15 > [Render thread INFO] [TLSkinCape] Method dpy.n()Lsm; successfully hooked.
+2020-05-06 07:29:27,850 Thread-15 > [Render thread INFO] [TLSkinCape] Method dpy.m()Lsm; successfully hooked.
+2020-05-06 07:29:27,852 Thread-15 > [Render thread INFO] [TLSkinCape] Method dpy.s()Ljava/lang/String; successfully hooked.
+2020-05-06 07:29:28,045 Thread-15 > [07:29:28] [main/INFO]: Setting user: jpineros
+2020-05-06 07:29:30,732 Thread-15 > [07:29:30] [main/INFO]: Backend library: LWJGL version 3.2.1 build 12
+2020-05-06 07:29:33,970 Thread-15 > [07:29:33] [main/INFO]: Reloading ResourceManager: Programmer Art, Default
+2020-05-06 07:29:34,010 Thread-15 > [07:29:34] [main/INFO]: [STDOUT]: [Connector] trying to start...
+2020-05-06 07:29:34,012 Thread-15 > [07:29:34] [main/INFO]: [STDOUT]: [Connector] no server info
+2020-05-06 07:29:34,013 Thread-15 > [07:29:34] [main/INFO]: [STDOUT]: [Connector] end
+2020-05-06 07:29:34,822 Thread-15 > [07:29:34] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+2020-05-06 07:29:36,556 Thread-15 > [07:29:36] [main/INFO]: Stopping!
+2020-05-06 07:29:36,611 Thread-15 > [07:29:36] [main/ERROR]: Shutdown failure!
+2020-05-06 07:29:36,612 Thread-15 > java.lang.NullPointerException: null
+2020-05-06 07:29:36,615 Thread-15 > 	at eca.close(SourceFile:100) ~[eca.class:?]
+2020-05-06 07:29:36,616 Thread-15 > 	at dbn.close(SourceFile:910) [dbn.class:?]
+2020-05-06 07:29:36,617 Thread-15 > 	at dbn.k(SourceFile:898) [dbn.class:?]
+2020-05-06 07:29:36,618 Thread-15 > 	at org.tlauncher.MainNew.main(MainNew.java:276) [MainNew.class:?]
+2020-05-06 07:29:36,619 Thread-15 > 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_231]
+2020-05-06 07:29:36,621 Thread-15 > 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_231]
+2020-05-06 07:29:36,623 Thread-15 > 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_231]
+2020-05-06 07:29:36,625 Thread-15 > 	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_231]
+2020-05-06 07:29:36,626 Thread-15 > 	at org.tlauncher.LaunchNew.launch(LaunchNew.java:155) [tl_skin_cape_1.15.2-1.9.jar:?]
+2020-05-06 07:29:36,628 Thread-15 > 	at org.tlauncher.LaunchNew.main(LaunchNew.java:24) [tl_skin_cape_1.15.2-1.9.jar:?]
+2020-05-06 07:29:36,893 Thread-15 Here I am!
+2020-05-06 07:29:36,927 Thread-15 [VersionManager] Refreshing versions locally...
+2020-05-06 07:29:36,938 Thread-15 [VersionManager] Versions has been refreshed (10 ms)
+2020-05-06 07:29:36,955 LoopedThread#8 [Launcher] Launcher exited.
+2020-05-06 07:29:36,956 Thread-15 [Launcher] Minecraft closed with exit code: 0
+2020-05-06 07:29:39,295 AWT-EventQueue-0 Good bye!
+2020-05-06 07:29:39,296 AWT-EventQueue-0 [TLauncherManager] before clearLibrary 
+2020-05-06 07:29:39,299 AWT-EventQueue-0 [TLauncherManager] written:  []
+2020-05-06 07:29:39,299 AWT-EventQueue-0 [TLauncherManager] after clearLibrary 

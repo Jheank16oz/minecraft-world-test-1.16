@@ -1,0 +1,136 @@
+2020-04-30 09:25:02,439 main 
+2020-04-30 09:25:02,440 main -------------------------------------------------------------------
+2020-04-30 09:25:02,807 main run double running protectin
+2020-04-30 09:25:02,817 main [Downloader2] Loaded configuration: normal
+2020-04-30 09:25:04,251 main [Bootstrapper] createLauncher
+2020-04-30 09:25:04,251 main path /Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home
+2020-04-30 09:25:04,251 main [Bootstrapper] choose jvm:/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin/java
+2020-04-30 09:25:04,251 main [Bootstrapper] validate files
+2020-04-30 09:25:04,251 main [Bootstrapper] end validated files
+2020-04-30 09:25:04,251 main [Bootstrapper] Starting launcher...
+2020-04-30 09:25:04,466 Thread-1 > [TLAUNCHER][STATIC] initialize inner config
+2020-04-30 09:25:04,506 Thread-1 > [Loading] INITIALIZING
+2020-04-30 09:25:07,060 Thread-1 > Starting TLauncher 2.69 RELEASE
+2020-04-30 09:25:07,060 Thread-1 > For more information, visit https://tlauncher.org/
+2020-04-30 09:25:07,062 Thread-1 > Startup time: Apr 30, 2020 9:25:07 AM
+2020-04-30 09:25:07,062 Thread-1 > ---
+2020-04-30 09:25:07,063 Thread-1 > run double running protectin
+2020-04-30 09:25:09,479 Thread-1 > [Loading] LOADING_CONFIGURATION
+2020-04-30 09:25:09,480 Thread-1 > Loading configuration from file: /Users/jpineros/Library/Application Support/tlauncher/tlauncher-2.0.properties
+2020-04-30 09:25:09,496 Thread-1 > [Configuration] Constant values: {}
+2020-04-30 09:25:09,519 Thread-1 > Machine info: -------------------------------------------------------
+2020-04-30 09:25:09,519 Thread-1 > Mac OS X 10.15.4, Java 1.8.0_231, jvm bit x64, 16384 MB RAM
+2020-04-30 09:25:09,519 Thread-1 > java path=/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin/java
+2020-04-30 09:25:09,519 Thread-1 > Intel UHD Graphics 630
+2020-04-30 09:25:09,519 Thread-1 > -------------------------------------------------------
+2020-04-30 09:25:09,519 Thread-1 > Selected locale: en_US
+2020-04-30 09:25:09,729 Thread-1 > [Loading] LOADING_CONSOLE
+2020-04-30 09:25:09,989 Thread-1 > 
+2020-04-30 09:25:10,013 Thread-1 > [Downloader2] Loaded configuration: good
+2020-04-30 09:25:10,152 Thread-1 > [Updater] Requesting an update...
+2020-04-30 09:25:10,155 Thread-1 > [Updater] Requesting from: http://repo.tlauncher.org/update/lch/update_2.0.json
+2020-04-30 09:25:10,155 Thread-1 > [Updater] Making request: http://repo.tlauncher.org/update/lch/update_2.0.json?version=2.69&client=1989ed1d-7f80-4273-b5a5-0b1ae81b1ee6
+2020-04-30 09:25:10,270 Thread-1 > [Browser] Loading resources...
+2020-04-30 09:25:10,409 Thread-1 > [Browser] Loading background...
+2020-04-30 09:25:10,447 Thread-1 > [Browser] Cleaning up after loading:
+2020-04-30 09:25:10,447 Thread-1 > Starting garbage collector: 86 / 198 MB
+2020-04-30 09:25:10,514 Thread-1 > Garbage collector completed: 17 / 229 MB
+2020-04-30 09:25:10,516 Thread-1 > [Loading] LOADING_MANAGERS
+2020-04-30 09:25:10,526 Thread-1 > [LocalVersionList] Base directory: /Users/jpineros/Library/Application Support/minecraft
+2020-04-30 09:25:10,543 Thread-1 > [ProfileManager] Refreshing profiles from: /Users/jpineros/Library/Application Support/minecraft/TlauncherProfiles.json
+2020-04-30 09:25:10,560 Thread-1 > [AdvertisingStatusObserver]  started to get ad information
+2020-04-30 09:25:10,560 Thread-1 > [GsonUtil]  request to http://repo.tlauncher.org/update/downloads/libraries/org/tlauncher/authlib/libraries-1.6.json
+2020-04-30 09:25:10,560 Thread-1 > [AdvertisingStatusObserver]  finished to get add information
+2020-04-30 09:25:10,571 Thread-1 > [Loading] LOADING_WINDOW
+2020-04-30 09:25:10,809 Thread-1 > [Updater] Request time: 654 ms
+2020-04-30 09:25:10,809 Thread-1 > [Updater] Successfully requested from: http://repo.tlauncher.org/update/lch/update_2.0.json
+2020-04-30 09:25:10,924 Thread-1 > [JFXStartPageLoader]  start load page: http://page.tlauncher.org/update/downloads/configs/client/eng.html
+2020-04-30 09:25:10,933 Thread-1 > [Browser] Running in JavaFX Thread
+2020-04-30 09:25:10,933 Thread-1 > [Browser] Preparing JavaFX...
+2020-04-30 09:25:11,046 Thread-1 > [Browser] Initializing...
+2020-04-30 09:25:11,091 Thread-1 > [REPO][SERVER_LIST_REPO] Success: Reached the repo in 519 ms.
+2020-04-30 09:25:11,187 Thread-1 > [Loading] PREPARING_MAINPANE
+2020-04-30 09:25:11,360 Thread-1 > [Downloader2] Loaded configuration: good
+2020-04-30 09:25:12,044 Thread-1 > [JFXStartPageLoader]  succeeded load page: http://page.tlauncher.org/update/downloads/configs/client/eng.html during 1
+2020-04-30 09:25:12,045 Thread-1 > [Browser@809913021] Loaded successfully: "http://page.tlauncher.org/update/downloads/configs/client/eng.html"
+2020-04-30 09:25:12,126 Thread-1 > [Browser] add listens into server_choose
+2020-04-30 09:25:12,126 Thread-1 > [Browser] finished listens into server_choose
+2020-04-30 09:25:12,338 Thread-1 > [Loading] POSTINIT_GUI
+2020-04-30 09:25:12,338 Thread-1 > [Frame] Packing main frame...
+2020-04-30 09:25:12,440 Thread-1 > [Frame] Resizing main pane...
+2020-04-30 09:25:12,440 Thread-1 > Updater is already closed. Showing up...
+2020-04-30 09:25:12,441 Thread-1 > Visibility set.
+2020-04-30 09:25:12,445 Thread-1 > [Loading] REFRESHING_INFO
+2020-04-30 09:25:12,446 Thread-1 > [VersionManager] Refreshing versions remotely...
+2020-04-30 09:25:12,447 Thread-1 > [REPO][EXTRA_VERSION_REPO] Attempt #1; timeout: 45000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new3/
+2020-04-30 09:25:12,449 Thread-1 > Started! (2969 ms.)
+2020-04-30 09:25:12,449 Thread-1 > [Loading] SUCCESS
+2020-04-30 09:25:12,449 Thread-1 [Bootstrapper] I can be terminated now: 0
+2020-05-05 19:47:41,741 main 
+2020-05-05 19:47:41,741 main -------------------------------------------------------------------
+2020-05-05 19:47:42,121 main run double running protectin
+2020-05-05 19:47:42,132 main [Downloader2] Loaded configuration: normal
+2020-05-05 19:47:43,451 main [Bootstrapper] createLauncher
+2020-05-05 19:47:43,451 main path /Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home
+2020-05-05 19:47:43,451 main [Bootstrapper] choose jvm:/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin/java
+2020-05-05 19:47:43,451 main [Bootstrapper] validate files
+2020-05-05 19:47:43,451 main [Bootstrapper] end validated files
+2020-05-05 19:47:43,452 main [Bootstrapper] Starting launcher...
+2020-05-05 19:47:43,693 Thread-1 > [TLAUNCHER][STATIC] initialize inner config
+2020-05-05 19:47:43,762 Thread-1 > [Loading] INITIALIZING
+2020-05-05 19:47:45,388 Thread-1 > Starting TLauncher 2.69 RELEASE
+2020-05-05 19:47:45,389 Thread-1 > For more information, visit https://tlauncher.org/
+2020-05-05 19:47:45,390 Thread-1 > Startup time: May 5, 2020 7:47:45 PM
+2020-05-05 19:47:45,390 Thread-1 > ---
+2020-05-05 19:47:45,392 Thread-1 > run double running protectin
+2020-05-05 19:47:45,976 Thread-1 > [Loading] LOADING_CONFIGURATION
+2020-05-05 19:47:45,977 Thread-1 > Loading configuration from file: /Users/jpineros/Library/Application Support/tlauncher/tlauncher-2.0.properties
+2020-05-05 19:47:45,991 Thread-1 > [Configuration] Constant values: {}
+2020-05-05 19:47:46,009 Thread-1 > Machine info: -------------------------------------------------------
+2020-05-05 19:47:46,009 Thread-1 > Mac OS X 10.15.4, Java 1.8.0_231, jvm bit x64, 16384 MB RAM
+2020-05-05 19:47:46,009 Thread-1 > java path=/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin/java
+2020-05-05 19:47:46,009 Thread-1 > Radeon Pro 560X
+2020-05-05 19:47:46,009 Thread-1 > -------------------------------------------------------
+2020-05-05 19:47:46,009 Thread-1 > Selected locale: en_US
+2020-05-05 19:47:46,205 Thread-1 > [Loading] LOADING_CONSOLE
+2020-05-05 19:47:46,457 Thread-1 > 
+2020-05-05 19:47:46,484 Thread-1 > [Downloader2] Loaded configuration: good
+2020-05-05 19:47:46,612 Thread-1 > [Updater] Requesting an update...
+2020-05-05 19:47:46,614 Thread-1 > [Updater] Requesting from: http://repo.tlauncher.org/update/lch/update_2.0.json
+2020-05-05 19:47:46,615 Thread-1 > [Updater] Making request: http://repo.tlauncher.org/update/lch/update_2.0.json?version=2.69&client=1989ed1d-7f80-4273-b5a5-0b1ae81b1ee6
+2020-05-05 19:47:46,710 Thread-1 > [Browser] Loading resources...
+2020-05-05 19:47:46,819 Thread-1 > [Browser] Loading background...
+2020-05-05 19:47:46,878 Thread-1 > [Browser] Cleaning up after loading:
+2020-05-05 19:47:46,879 Thread-1 > Starting garbage collector: 86 / 199 MB
+2020-05-05 19:47:46,932 Thread-1 > Garbage collector completed: 17 / 230 MB
+2020-05-05 19:47:46,934 Thread-1 > [Loading] LOADING_MANAGERS
+2020-05-05 19:47:46,940 Thread-1 > [LocalVersionList] Base directory: /Users/jpineros/Library/Application Support/minecraft
+2020-05-05 19:47:46,952 Thread-1 > [ProfileManager] Refreshing profiles from: /Users/jpineros/Library/Application Support/minecraft/TlauncherProfiles.json
+2020-05-05 19:47:46,952 Thread-1 > [Updater] Request time: 338 ms
+2020-05-05 19:47:46,953 Thread-1 > [Updater] Successfully requested from: http://repo.tlauncher.org/update/lch/update_2.0.json
+2020-05-05 19:47:46,955 Thread-1 > [AdvertisingStatusObserver]  started to get ad information
+2020-05-05 19:47:46,955 Thread-1 > [GsonUtil]  request to http://repo.tlauncher.org/update/downloads/libraries/org/tlauncher/authlib/libraries-1.6.json
+2020-05-05 19:47:46,956 Thread-1 > [AdvertisingStatusObserver]  finished to get add information
+2020-05-05 19:47:46,961 Thread-1 > [Loading] LOADING_WINDOW
+2020-05-05 19:47:47,122 Thread-1 > [JFXStartPageLoader]  start load page: http://page.tlauncher.org/update/downloads/configs/client/eng.html
+2020-05-05 19:47:47,128 Thread-1 > [Browser] Running in JavaFX Thread
+2020-05-05 19:47:47,128 Thread-1 > [Browser] Preparing JavaFX...
+2020-05-05 19:47:47,190 Thread-1 > [Browser] Initializing...
+2020-05-05 19:47:47,199 Thread-1 > [REPO][SERVER_LIST_REPO] Success: Reached the repo in 238 ms.
+2020-05-05 19:47:47,274 Thread-1 > [Loading] PREPARING_MAINPANE
+2020-05-05 19:47:47,388 Thread-1 > [Downloader2] Loaded configuration: good
+2020-05-05 19:47:47,961 Thread-1 > [JFXStartPageLoader]  succeeded load page: http://page.tlauncher.org/update/downloads/configs/client/eng.html during 0
+2020-05-05 19:47:47,961 Thread-1 > [Browser@2022727765] Loaded successfully: "http://page.tlauncher.org/update/downloads/configs/client/eng.html"
+2020-05-05 19:47:48,047 Thread-1 > [Browser] add listens into server_choose
+2020-05-05 19:47:48,047 Thread-1 > [Browser] finished listens into server_choose
+2020-05-05 19:47:48,277 Thread-1 > [Loading] POSTINIT_GUI
+2020-05-05 19:47:48,278 Thread-1 > [Frame] Packing main frame...
+2020-05-05 19:47:48,367 Thread-1 > [Frame] Resizing main pane...
+2020-05-05 19:47:48,368 Thread-1 > Updater is already closed. Showing up...
+2020-05-05 19:47:48,368 Thread-1 > Visibility set.
+2020-05-05 19:47:48,371 Thread-1 > [Loading] REFRESHING_INFO
+2020-05-05 19:47:48,372 Thread-1 > [VersionManager] Refreshing versions remotely...
+2020-05-05 19:47:48,373 Thread-1 > [REPO][EXTRA_VERSION_REPO] Attempt #1; timeout: 45000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new3/
+2020-05-05 19:47:48,375 Thread-1 > Started! (2399 ms.)
+2020-05-05 19:47:48,375 Thread-1 > [Loading] SUCCESS
+2020-05-05 19:47:48,375 Thread-1 [Bootstrapper] I can be terminated now: 0
